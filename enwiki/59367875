@@ -1,0 +1,147 @@
+{
+  "title": "Devendra Paudel",
+  "pageID": 59367875,
+  "categories": [
+    "Living people",
+    "Year of birth missing (living people)",
+    "Nepal MPs 2017–",
+    "Nepal Communist Party (NCP) politicians",
+    "Communist Party of Nepal (Maoist Centre) politicians"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Devendra Paudel is a Nepalese Politician and serving as the Member Of House Of Representatives (Nepal) also has been elected as Education Minister of Nepal elected from Baglung-2, Province No. 3. He is the member of CPN (Maoist Centre).",
+              "links": [
+                {
+                  "text": "House Of Representatives",
+                  "type": "internal",
+                  "page": "Federal Parliament of Nepal"
+                },
+                {
+                  "type": "internal",
+                  "page": "Baglung"
+                },
+                {
+                  "type": "internal",
+                  "page": "CPN (Maoist Centre)"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Devendra Paudel"
+                ]
+              }
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Nepalese Politician",
+          "template": "short description"
+        }
+      ],
+      "infoboxes": [
+        {
+          "name": {
+            "text": "Devendra Poudel"
+          },
+          "native_name": {
+            "text": "देवेन्द्र पौडेल"
+          },
+          "constituency_mp": {
+            "text": "Baglung 2",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Baglung 2"
+              }
+            ]
+          },
+          "term_start": {
+            "text": "4 March 2018"
+          },
+          "predecessor": {
+            "text": "Prakash Sharma Paudel",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Prakash Sharma Paudel"
+              }
+            ]
+          },
+          "party": {
+            "text": "CPN (Maoist Centre)",
+            "links": [
+              {
+                "type": "internal",
+                "page": "CPN (Maoist Centre)"
+              }
+            ]
+          },
+          "nationality": {
+            "text": "Nepali",
+            "links": [
+              {
+                "text": "Nepali",
+                "type": "internal",
+                "page": "Nepal"
+              }
+            ]
+          },
+          "otherparty": {
+            "text": "Nepal Communist Party(2018-2021)",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Nepal Communist Party"
+              }
+            ]
+          }
+        }
+      ],
+      "references": [
+        {
+          "url": "https://myrepublica.nagariknetwork.com/news/29367/",
+          "title": "CPN-MC selects its candidates for twin elections",
+          "last": "Republica",
+          "website": "My Republica",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "https://myrepublica.nagariknetwork.com/news/35130/",
+          "title": "Maoist Center leader Aryal slaps lawmakers Paudel, Ghartimagar",
+          "website": "My Republica",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "https://kathmandupost.ekantipur.com/news/2017-12-09/maoist-centres-poudel-elected-in-baglung-2.html",
+          "title": "Maoist Centre's Poudel elected in Baglung-2",
+          "website": "kathmandupost.ekantipur.com",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "reflist"
+        },
+        {
+          "template": "nepal-politician-stub"
+        }
+      ]
+    }
+  ]
+}

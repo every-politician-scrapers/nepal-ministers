@@ -1,0 +1,131 @@
+{
+  "title": "Shashi Shrestha",
+  "pageID": 10980361,
+  "categories": [
+    "Government ministers of Nepal",
+    "Living people",
+    "Communist Party of Nepal (Unity Centre–Masal) politicians",
+    "Women government ministers of Nepal",
+    "Year of birth missing (living people)",
+    "Nepal MPs 2017–",
+    "Nepal Communist Party (NCP) politicians"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Shashi Shrestha (Nepali: शशी श्रेष्ठ) is a Nepalese politician, Central Committee member of Janamorcha Nepal (Amik Sherchan faction).",
+              "links": [
+                {
+                  "text": "Nepali",
+                  "type": "internal",
+                  "page": "Nepali language"
+                },
+                {
+                  "text": "Nepalese",
+                  "type": "internal",
+                  "page": "Nepal"
+                },
+                {
+                  "text": "politician",
+                  "type": "internal",
+                  "page": "politician"
+                },
+                {
+                  "type": "internal",
+                  "page": "Janamorcha Nepal"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Shashi Shrestha"
+                ]
+              }
+            },
+            {
+              "text": "She was appointed as Minister of State for Health and Population on April 29, 2007."
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Shrestha is the head of the Janamorcha-supported All Nepal Women's Association.",
+              "links": [
+                {
+                  "text": "All Nepal Women's Association",
+                  "type": "internal",
+                  "page": "All Nepal Women's Association (Revolutionary)"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Nepali politician",
+          "template": "short description"
+        },
+        {
+          "date": "August 2019",
+          "template": "use dmy dates"
+        }
+      ],
+      "infoboxes": [
+        {
+          "name": {
+            "text": "Shashi Shrestha"
+          },
+          "party": {
+            "text": "CPN (Maoist Centre)",
+            "links": [
+              {
+                "type": "internal",
+                "page": "CPN (Maoist Centre)"
+              }
+            ]
+          },
+          "nationality": {
+            "text": "Nepali",
+            "links": [
+              {
+                "text": "Nepali",
+                "type": "internal",
+                "page": "Nepal"
+              }
+            ]
+          }
+        }
+      ],
+      "references": [
+        {
+          "url": "http://www.nepalnews.com.np/archive/2007/apr/apr29/news09.php",
+          "title": "Pokhrel appointed Health Minister",
+          "date": "2007-04-29",
+          "website": "Nepalnews.com",
+          "archive-url": "https://web.archive.org/web/20070518150521/http://www.nepalnews.com.np/archive/2007/apr/apr29/news09.php",
+          "archive-date": "2007-05-18",
+          "access-date": "2017-04-16",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "http://www.nepalitimes.com/issue/150/FromtheNepaliPress/2818",
+          "title": "Party woman",
+          "date": "2003-06-20",
+          "website": "Nepali Times",
+          "archive-url": "https://web.archive.org/web/20061116111156/http://www.nepalitimes.com/issue/150/FromtheNepaliPress/2818",
+          "archive-date": "2006-11-16",
+          "url-status": "dead",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    }
+  ]
+}

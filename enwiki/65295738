@@ -1,0 +1,196 @@
+{
+  "title": "Uma Regmi",
+  "pageID": 65295738,
+  "categories": [
+    "Living people",
+    "Members of the Nepalese Constituent Assembly",
+    "1954 births",
+    "Nepal MPs 2017–",
+    "Nepali Congress politicians"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Uma Regmi (उमा रेग्मी), is a Nepali politician and current Minister for Women, Children and Senior Citizens of Nepal.",
+              "links": [
+                {
+                  "text": "Minister for Women, Children and Senior Citizens",
+                  "type": "internal",
+                  "page": "Ministry of Women, Children and Senior Citizens (Nepal)"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Uma Regmi"
+                ]
+              }
+            },
+            {
+              "text": "She is a member of House of Representatives selected through PR (proportional representation) system, belongs to the Nepali Congress party.",
+              "links": [
+                {
+                  "text": "proportional representation",
+                  "type": "internal",
+                  "page": "Proportional representation"
+                },
+                {
+                  "type": "internal",
+                  "page": "Nepali Congress"
+                }
+              ]
+            },
+            {
+              "text": "Regmi is also the current President of the Nepal Women Association (NWA) which is a sister wing of Nepali Congress.",
+              "links": [
+                {
+                  "text": "Nepal Women Association",
+                  "type": "internal",
+                  "page": "Nepal Woman Association"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Nepali politician",
+          "template": "short description"
+        },
+        {
+          "year": "1954",
+          "month": "07",
+          "day": "15",
+          "template": "birth date and age"
+        }
+      ],
+      "infoboxes": [
+        {
+          "honorific-prefix": {
+            "text": "Honourable",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Honourable"
+              }
+            ]
+          },
+          "name": {
+            "text": "Uma Regmi"
+          },
+          "office": {
+            "text": "Minister for Women, Children and Senior Citizens",
+            "links": [
+              {
+                "text": "Women, Children and Senior Citizens",
+                "type": "internal",
+                "page": "Ministry of Women, Children and Senior Citizens (Nepal)"
+              }
+            ]
+          },
+          "term_start": {
+            "text": "8 October 2021"
+          },
+          "president": {
+            "text": "Bidhya Devi Bhandari",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Bidhya Devi Bhandari"
+              }
+            ]
+          },
+          "primeminister": {
+            "text": "Sher Bahadur Deuba",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Sher Bahadur Deuba"
+              }
+            ]
+          },
+          "birth_date": {
+            "text": "July 15, 1954"
+          },
+          "citizenship": {
+            "text": "Nepali"
+          },
+          "nationality": {
+            "text": "Nepali",
+            "links": [
+              {
+                "text": "Nepali",
+                "type": "internal",
+                "page": "Nepal"
+              }
+            ]
+          },
+          "party": {
+            "text": "Nepali Congress",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Nepali Congress"
+              }
+            ]
+          }
+        }
+      ],
+      "references": [
+        {
+          "url": "https://thehimalayantimes.com/nepal/proportional-representation-lawmakers-accuse-government-of-discriminating-against-them/",
+          "title": "PR lawmakers accuse govt of discriminating against them - NC MP Uma Regmi Tears Manual on Pork Barrel Funds",
+          "access-date": "September 12, 2020",
+          "publisher": "The Himalayan Times",
+          "date": "February 21, 2019",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "https://myrepublica.nagariknetwork.com/news/nc-submits-name-of-elected-hor-members-under-pr",
+          "date": "February 12, 2018",
+          "publisher": "MyRepublica",
+          "title": "NC submits name of elected HoR members under PR",
+          "access-date": "September 12, 2020",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "https://thehimalayantimes.com/kathmandu/sher-bahadur-deuba-krishna-prasad-sitaula-panel-sweeps-nepal-women-association-election/",
+          "title": "Deuba-Sitaula panel sweeps Nepal Women Association election",
+          "date": "September 17, 2016",
+          "publisher": "The Himalyan Times",
+          "access-date": "September 12, 2020",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "https://kathmandupost.com/valley/2016/09/17/uma-regmi-elected-as-nwa-chairperson",
+          "date": "September 17, 2016",
+          "title": "Uma Regmi elected as NWA Chairperson",
+          "publisher": "Kathmandu Post",
+          "access-date": "September 12, 2020",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "reflist"
+        },
+        {
+          "template": "nepal-politician-stub"
+        }
+      ]
+    }
+  ]
+}

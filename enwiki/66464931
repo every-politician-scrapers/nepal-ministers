@@ -1,0 +1,216 @@
+{
+  "title": "Prem Ale",
+  "pageID": 66464931,
+  "categories": [
+    "Government ministers of Nepal",
+    "Living people",
+    "Members of the Nepalese Constituent Assembly",
+    "Nepal Communist Party (NCP) politicians",
+    "People from Doti District",
+    "1971 births"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Prem Bahadur Ale Magar is a Nepalese Politician and current Minister of Culture, Tourism and Civil Aviation.",
+              "links": [
+                {
+                  "text": "Minister of Culture, Tourism and Civil Aviation",
+                  "type": "internal",
+                  "page": "Ministry of Culture, Tourism and Civil Aviation (Nepal)"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Prem Bahadur Ale Magar"
+                ]
+              }
+            },
+            {
+              "text": "He also served as Minister of Forests and Environment of Government of Nepal from 25th December of 2020 to 4th June of 2021 He belongs to CPN (Unified Socialist).",
+              "links": [
+                {
+                  "text": "Minister of Forests and Environment",
+                  "type": "internal",
+                  "page": "Ministry of Forests and Environment (Nepal)"
+                },
+                {
+                  "type": "internal",
+                  "page": "Government of Nepal"
+                },
+                {
+                  "type": "internal",
+                  "page": "CPN (Unified Socialist)"
+                }
+              ]
+            },
+            {
+              "text": "He was elected, in the elections held in 2017, as a member of the House of Representatives from Doti 1 (constituency).",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Doti 1 (constituency)"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "year": "1970",
+          "month": "04",
+          "day": "28",
+          "template": "birth date and age"
+        }
+      ],
+      "infoboxes": [
+        {
+          "honorific-prefix": {
+            "text": "Honourable",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Honourable"
+              }
+            ]
+          },
+          "name": {
+            "text": "Prem Bahadur Ale Magar प्रेम बहादुर आलेमगर"
+          },
+          "office": {
+            "text": "Minister of Culture, Tourism and Civil Aviation",
+            "links": [
+              {
+                "text": "Minister of Culture, Tourism and Civil Aviation",
+                "type": "internal",
+                "page": "Ministry of Culture, Tourism and Civil Aviation (Nepal)"
+              }
+            ]
+          },
+          "primeminister": {
+            "text": "Sher Bahadur Deuba",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Sher Bahadur Deuba"
+              }
+            ]
+          },
+          "president": {
+            "text": "Bidya Devi Bhandari",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Bidya Devi Bhandari"
+              }
+            ]
+          },
+          "term_start": {
+            "text": "8 October 2021"
+          },
+          "office1": {
+            "text": "Minister of Forests and Environment",
+            "links": [
+              {
+                "text": "Minister of Forests and Environment",
+                "type": "internal",
+                "page": "Ministry of Forests and Environment (Nepal)"
+              }
+            ]
+          },
+          "term_start1": {
+            "text": "25th December of 2020"
+          },
+          "term_end1": {
+            "text": "4th June of 2021"
+          },
+          "president1": {
+            "text": "Bidhya Devi Bhandari",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Bidhya Devi Bhandari"
+              }
+            ]
+          },
+          "primeminister1": {
+            "text": "KP Sharma Oli",
+            "links": [
+              {
+                "type": "internal",
+                "page": "KP Sharma Oli"
+              }
+            ]
+          },
+          "constituency_mp2": {
+            "text": "Doti 1 (constituency)",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Doti 1 (constituency)"
+              }
+            ]
+          },
+          "majority2": {
+            "text": "1,632",
+            "number": 1632
+          },
+          "predecessor2": {
+            "text": "Bir Bahadur Balayar"
+          },
+          "term_start2": {
+            "text": "2017",
+            "number": 2017
+          },
+          "birth_date": {
+            "text": "April 28, 1970"
+          },
+          "party": {
+            "text": "CPN (Unified Socialist)",
+            "links": [
+              {
+                "type": "internal",
+                "page": "CPN (Unified Socialist)"
+              }
+            ]
+          }
+        }
+      ],
+      "references": [
+        {
+          "url": "https://www.aninews.in/news/world/asia/oli-inducts-8-reassigns-6-ministers-on-board-after-dissolving-parliament20201225214829/",
+          "title": "Oli inducts 8, reassigns 6 Ministers on board after dissolving parliament",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        },
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        }
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "reflist"
+        }
+      ]
+    }
+  ]
+}

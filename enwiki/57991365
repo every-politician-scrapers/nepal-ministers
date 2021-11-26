@@ -1,0 +1,237 @@
+{
+  "title": "Ganesh Prasad Timilsina",
+  "pageID": 57991365,
+  "categories": [
+    "1960 births",
+    "Living people",
+    "People from Parbat District",
+    "Nepal Communist Party (NCP) politicians",
+    "Nepalese Hindus",
+    "Speakers of the National Assembly (Nepal)",
+    "Members of the National Assembly (Nepal)",
+    "Political office-holders in Nepal"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Ganesh Prasad Timilsina (गणेश प्रसाद तिमिल्सिना) is a Nepalese politician, belonging to the Nepal Communist Party (NCP).",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Nepal Communist Party (NCP)"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Ganesh Prasad Timilsina"
+                ]
+              }
+            },
+            {
+              "text": "In the 2018 National Assembly election he was elected from the Gandaki Province.",
+              "links": [
+                {
+                  "text": "2018 National Assembly election",
+                  "type": "internal",
+                  "page": "Federal Parliament of Nepal"
+                },
+                {
+                  "type": "internal",
+                  "page": "Gandaki Province"
+                }
+              ]
+            },
+            {
+              "text": "He was subsequently appointed as Chairman of National Assembly and sworn on 15 March 2018.",
+              "links": [
+                {
+                  "text": "Chairman of National Assembly",
+                  "type": "internal",
+                  "page": "National Assembly (Nepal)"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Nepali politician",
+          "template": "short description"
+        },
+        {
+          "date": "July 2018",
+          "template": "use american english"
+        },
+        {
+          "date": "July 2018",
+          "template": "use dmy dates"
+        },
+        {
+          "year": "1960",
+          "month": "12",
+          "day": "10",
+          "df": "y",
+          "template": "birth date and age"
+        }
+      ],
+      "infoboxes": [
+        {
+          "honorific-prefix": {
+            "text": "Honourable",
+            "links": [
+              {
+                "text": "Honourable",
+                "type": "internal",
+                "page": "The Honourable"
+              }
+            ]
+          },
+          "name": {
+            "text": "Ganesh Prasad Timilsina गणेश प्रसाद तिमिल्सिना"
+          },
+          "office": {
+            "text": "Chairman of National Assembly of Nepal",
+            "links": [
+              {
+                "text": "Chairman of National Assembly of Nepal",
+                "type": "internal",
+                "page": "National Assembly (Nepal)"
+              }
+            ]
+          },
+          "term_start1": {
+            "text": "16 March 2018"
+          },
+          "predecessor1": {
+            "text": "Position established",
+            "formatting": {
+              "italic": [
+                "Position established"
+              ]
+            }
+          },
+          "party": {
+            "text": "Nepal Communist Party (NCP)",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Nepal Communist Party (NCP)"
+              }
+            ]
+          },
+          "president1": {
+            "text": "Bidhya Devi Bhandari",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Bidhya Devi Bhandari"
+              }
+            ]
+          },
+          "birth_date": {
+            "text": "December 10, 1960"
+          },
+          "birth_place": {
+            "text": "Modi Rural Municipality-7, Parbat, Gandaki Province, Nepal",
+            "links": [
+              {
+                "text": "Modi Rural Municipality-7",
+                "type": "internal",
+                "page": "List of gaunpalikas of Nepal"
+              },
+              {
+                "text": "Parbat",
+                "type": "internal",
+                "page": "Parbat District"
+              },
+              {
+                "type": "internal",
+                "page": "Gandaki Province"
+              },
+              {
+                "type": "internal",
+                "page": "Nepal"
+              }
+            ]
+          },
+          "father": {
+            "text": "Tulasi Prasad Timilsina"
+          },
+          "mother": {
+            "text": "Hira Devi Timilsina"
+          }
+        }
+      ],
+      "references": [
+        {
+          "title": "नाम: गणेश प्रसाद तिमिल्सिना",
+          "url": "http://na.parliament.gov.np/np/members/12",
+          "access-date": "5 November 2019",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "title": "Timilsina assumes NA office as its chairman",
+          "url": "http://kathmandupost.ekantipur.com/news/2018-03-15/timilsina-assumes-na-office-as-its-chairman.html",
+          "work": "The Kathmandu Post",
+          "date": "15 March 2018",
+          "access-date": "5 November 2019",
+          "template": "citation",
+          "type": "news"
+        }
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "reflist"
+        }
+      ]
+    },
+    {
+      "title": "See also",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": []
+        }
+      ],
+      "templates": [
+        {
+          "template": "nepal-politician-stub"
+        }
+      ],
+      "lists": [
+        [
+          {
+            "text": "Krishna Bahadur Mahara",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Krishna Bahadur Mahara"
+              }
+            ]
+          },
+          {
+            "text": "National Assembly",
+            "links": [
+              {
+                "text": "National Assembly",
+                "type": "internal",
+                "page": "National Assembly (Nepal)"
+              }
+            ]
+          }
+        ]
+      ]
+    }
+  ]
+}

@@ -1,0 +1,115 @@
+{
+  "title": "Ram Sahaya Yadav",
+  "pageID": 67650474,
+  "categories": [
+    "Members of the Nepalese Constituent Assembly",
+    "Nepal MPs 2017–",
+    "Year of birth missing (living people)",
+    "Living people"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Ram Sahaya Yadav is a Nepalese politician, belonging to the People's Socialist Party, Nepal currently serving as the member of the 1st Federal Parliament of Nepal.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "People's Socialist Party, Nepal"
+                },
+                {
+                  "text": "1st Federal Parliament of Nepal",
+                  "type": "internal",
+                  "page": "1st Federal Parliament of Nepal"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Ram Sahaya Yadav"
+                ]
+              }
+            },
+            {
+              "text": "In the 2017 Nepalese general election he was elected from the Bara 2 constituency, securing 28185 (50.01%) votes.",
+              "links": [
+                {
+                  "text": "2017 Nepalese general election",
+                  "type": "internal",
+                  "page": "2017 Nepalese general election"
+                },
+                {
+                  "text": "Bara 2 constituency",
+                  "type": "internal",
+                  "page": "Bara 2 (constituency)"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Nepalese politician",
+          "template": "short description"
+        }
+      ],
+      "infoboxes": [
+        {
+          "name": {
+            "text": "Ram Sahaya Yadav"
+          },
+          "party": {
+            "text": "People's Socialist Party, Nepal",
+            "links": [
+              {
+                "type": "internal",
+                "page": "People's Socialist Party, Nepal"
+              }
+            ]
+          },
+          "nationality": {
+            "text": "Nepali",
+            "links": [
+              {
+                "text": "Nepali",
+                "type": "internal",
+                "page": "Nepal"
+              }
+            ]
+          }
+        }
+      ],
+      "references": [
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        },
+        {
+          "title": "SSFN Ramsahaya Yadav emerges victorious from Bara-2",
+          "accessdate": "2021-05-13",
+          "url": "https://kathmandupost.com/national/2017/12/10/ssfn-ram-raya-yadav-emerges-victorious-from-bara-2",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "reflist"
+        },
+        {
+          "template": "nepal-politician-stub"
+        }
+      ]
+    }
+  ]
+}

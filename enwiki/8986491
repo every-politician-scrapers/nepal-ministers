@@ -1,0 +1,209 @@
+{
+  "title": "Uma Kanta Chaudhari",
+  "pageID": 8986491,
+  "categories": [
+    "Living people",
+    "Nepali Congress politicians",
+    "Government ministers of Nepal",
+    "Members of the Nepalese Constituent Assembly",
+    "Year of birth missing (living people)",
+    "Place of birth missing (living people)",
+    "Nepal MPs 2017–",
+    "Nepal MPs 1999–2002"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Uma Kanta Chaudhary (उमाकान्त चौधरी) is a Nepalese politician and the current minister for Water Supply of Nepal.",
+              "links": [
+                {
+                  "text": "Nepalese",
+                  "type": "internal",
+                  "page": "Nepal"
+                },
+                {
+                  "text": "Water Supply",
+                  "type": "internal",
+                  "page": "Ministry of Water Supply (Nepal)"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Uma Kanta Chaudhary"
+                ]
+              }
+            },
+            {
+              "text": "He was elected to the Pratinidhi Sabha in the 1999 election on behalf of the Nepali Congress.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Pratinidhi Sabha"
+                },
+                {
+                  "text": "1999 election",
+                  "type": "internal",
+                  "page": "1999 Nepalese legislative election"
+                },
+                {
+                  "type": "internal",
+                  "page": "Nepali Congress"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "He was appointed in 2004 as minister of state for agriculture and cooperation again in 2009 he became health minister representing congress, he hails from bara and won CA election from constituency no 5."
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Nepalese politician",
+          "bot": "PearBOT 5",
+          "template": "short description"
+        }
+      ],
+      "infoboxes": [
+        {
+          "honorific_prefix": {
+            "text": "Honourable",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Honourable"
+              }
+            ]
+          },
+          "name": {
+            "text": "Uma Kanta Chaudhary"
+          },
+          "native_name": {
+            "text": "उमा कान्त चौधरी"
+          },
+          "office": {
+            "text": "Minister for Water Supply",
+            "links": [
+              {
+                "text": "Water Supply",
+                "type": "internal",
+                "page": "Ministry of Water Supply (Nepal)"
+              }
+            ]
+          },
+          "term_start": {
+            "text": "8 October 2021"
+          },
+          "president": {
+            "text": "Bidhya Devi Bhandari",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Bidhya Devi Bhandari"
+              }
+            ]
+          },
+          "primeminister": {
+            "text": "Sher Bahadur Deuba",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Sher Bahadur Deuba"
+              }
+            ]
+          },
+          "office1": {
+            "text": "Member of House of Representatives",
+            "links": [
+              {
+                "text": "House of Representatives",
+                "type": "internal",
+                "page": "House of Representatives (Nepal)"
+              }
+            ]
+          },
+          "term_start1": {
+            "text": "2017",
+            "number": 2017
+          },
+          "president1": {
+            "text": "Bidya Devi Bhandari",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Bidya Devi Bhandari"
+              }
+            ]
+          },
+          "primeminister1": {
+            "text": "Sher Bahadur Deuba",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Sher Bahadur Deuba"
+              }
+            ]
+          },
+          "constituency1": {
+            "text": "Bara 1",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Bara 1"
+              }
+            ]
+          },
+          "party": {
+            "text": "Nepali Congress",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Nepali Congress"
+              }
+            ]
+          },
+          "nationality": {
+            "text": "Nepali",
+            "links": [
+              {
+                "text": "Nepali",
+                "type": "internal",
+                "page": "Nepal"
+              }
+            ]
+          }
+        }
+      ],
+      "references": [
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        },
+        {
+          "date": "July 2010",
+          "template": "citation needed"
+        }
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "nepal-politician-stub"
+        }
+      ]
+    }
+  ]
+}
