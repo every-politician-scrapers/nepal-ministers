@@ -69,6 +69,13 @@
           "template": "use dmy dates"
         },
         {
+          "list": [
+            "Ramsur Pun",
+            "Mansara Pun"
+          ],
+          "template": "ublist"
+        },
+        {
           "spouse": "Hastamali Pun",
           "from": "1983",
           "template": "marriage"
@@ -167,10 +174,7 @@
             "text": "Communist Party of Nepal (Maoist Centre) (until 2015)"
           },
           "parents": {
-            "text": "Ramsur Pun"
-          },
-          "[object Object]": {
-            "text": "Mansara Pun"
+            "text": "Ramsur Pun\n\nMansara Pun"
           },
           "spouse": {
             "text": "Hastamali Pun (m. 1983)"
