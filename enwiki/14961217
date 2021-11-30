@@ -78,62 +78,6 @@
           "template": "citation needed"
         }
       ]
-    },
-    {
-      "title": "Early life and career",
-      "depth": 0,
-      "paragraphs": [
-        {
-          "sentences": [
-            {
-              "text": "Bhusal was born c. 1963 in Kimdada, a remote village in Arghakhanchi District.",
-              "links": [
-                {
-                  "text": "Kimdada",
-                  "type": "internal",
-                  "page": "Kimadanda"
-                },
-                {
-                  "type": "internal",
-                  "page": "Arghakhanchi District"
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "sentences": [
-            {
-              "text": "She entered student politics in 1977 when she was studying in the eighth grade, and four years later, in 1981, she took active membership of the Communist Party of Nepal."
-            }
-          ]
-        }
-      ],
-      "references": [
-        {
-          "title": "सानो छँदा : पम्फा भुसाल",
-          "lang": "ne",
-          "url": "http://kantipur.ekantipur.com/printedition/news/2015-01-31/339239.html",
-          "access-date": "5 August 2021",
-          "date": "31 January 2015",
-          "newspaper": "Kantipur",
-          "last1": "Neupane",
-          "first1": "Damodar",
-          "last2": "Bista",
-          "first2": "Dipendra",
-          "template": "citation",
-          "type": "news"
-        }
-      ]
-    },
-    {
-      "title": "References",
-      "depth": 0,
-      "templates": [
-        {
-          "template": "reflist"
-        }
-      ]
     }
   ]
 }

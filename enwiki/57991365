@@ -186,52 +186,6 @@
           "type": "news"
         }
       ]
-    },
-    {
-      "title": "References",
-      "depth": 0,
-      "templates": [
-        {
-          "template": "reflist"
-        }
-      ]
-    },
-    {
-      "title": "See also",
-      "depth": 0,
-      "paragraphs": [
-        {
-          "sentences": []
-        }
-      ],
-      "templates": [
-        {
-          "template": "nepal-politician-stub"
-        }
-      ],
-      "lists": [
-        [
-          {
-            "text": "Krishna Bahadur Mahara",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Krishna Bahadur Mahara"
-              }
-            ]
-          },
-          {
-            "text": "National Assembly",
-            "links": [
-              {
-                "text": "National Assembly",
-                "type": "internal",
-                "page": "National Assembly (Nepal)"
-              }
-            ]
-          }
-        ]
-      ]
     }
   ]
 }

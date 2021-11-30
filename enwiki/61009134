@@ -217,36 +217,6 @@
           "type": "web"
         }
       ]
-    },
-    {
-      "title": "References",
-      "depth": 0,
-      "templates": [
-        {
-          "template": "reflist"
-        }
-      ]
-    },
-    {
-      "title": "External links",
-      "depth": 0,
-      "paragraphs": [
-        {
-          "sentences": []
-        }
-      ],
-      "templates": [
-        {
-          "id": "Jhakri_didi",
-          "template": "twitter"
-        },
-        {
-          "template": "authority control"
-        },
-        {
-          "template": "nepal-politician-stub"
-        }
-      ]
     }
   ]
 }

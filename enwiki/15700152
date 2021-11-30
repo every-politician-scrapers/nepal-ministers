@@ -295,15 +295,6 @@
           "inline": {}
         }
       ]
-    },
-    {
-      "title": "References",
-      "depth": 0,
-      "templates": [
-        {
-          "template": "reflist"
-        }
-      ]
     }
   ]
 }

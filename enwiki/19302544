@@ -69,13 +69,6 @@
           "template": "use dmy dates"
         },
         {
-          "list": [
-            "Ramsur Pun",
-            "Mansara Pun"
-          ],
-          "template": "ublist"
-        },
-        {
           "spouse": "Hastamali Pun",
           "from": "1983",
           "template": "marriage"
@@ -174,7 +167,10 @@
             "text": "Communist Party of Nepal (Maoist Centre) (until 2015)"
           },
           "parents": {
-            "text": "Ramsur Pun\n\nMansara Pun"
+            "text": "Ramsur Pun"
+          },
+          "[object Object]": {
+            "text": "Mansara Pun"
           },
           "spouse": {
             "text": "Hastamali Pun (m. 1983)"
@@ -226,190 +222,6 @@
           "url-status": "dead",
           "template": "citation",
           "type": "web"
-        }
-      ]
-    },
-    {
-      "title": "Early life and education",
-      "depth": 0,
-      "paragraphs": [
-        {
-          "sentences": [
-            {
-              "text": "Nanda Bahadur Pun was born to farmers Ramsur Pun and Mansara Pun in Rangsi - 9, Rolpa.",
-              "links": [
-                {
-                  "text": "Rangsi",
-                  "type": "internal",
-                  "page": "Rangsi, Rolpa"
-                },
-                {
-                  "text": "Rolpa",
-                  "type": "internal",
-                  "page": "Rolpa District"
-                }
-              ]
-            },
-            {
-              "text": "He was the third of six children."
-            }
-          ]
-        },
-        {
-          "sentences": [
-            {
-              "text": "He started school at the age of 8 years."
-            },
-            {
-              "text": "He completed his primary education at Jakhar Primary School and his lower secondary education at Rangsi Lower Secondary School."
-            },
-            {
-              "text": "While he was in the seventh grade at Rangsi Lower Secondary School he was the chairman of a unit of the All Nepal National Independent Students Union (Sixth).",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "All Nepal National Independent Students Union (Sixth)"
-                }
-              ]
-            },
-            {
-              "text": "He was a representative of his school to the 2nd district convention of the All Nepal National Independent Students Union (Sixth).",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "All Nepal National Independent Students Union (Sixth)"
-                }
-              ]
-            },
-            {
-              "text": "He had to hide in a cave all night after the police disrupted the event."
-            }
-          ]
-        },
-        {
-          "sentences": [
-            {
-              "text": "Pun enrolled in Bal Kalyan Secondary School in Libang for his secondary education."
-            },
-            {
-              "text": "In Libang he was influenced by his teacher, Krishna Bahadur Mahara to study about communism.",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "Krishna Bahadur Mahara"
-                },
-                {
-                  "text": "communism",
-                  "type": "internal",
-                  "page": "communism"
-                }
-              ]
-            },
-            {
-              "text": "In 1983 he was a representative for Rolpa at the 1st Sub Central Convention of the ANNSFU.",
-              "links": [
-                {
-                  "text": "ANNSFU",
-                  "type": "internal",
-                  "page": "All Nepal National Free Students Union"
-                }
-              ]
-            },
-            {
-              "text": "Lila Mani Pokharel was elected chairman of ANNSFU during this convention.",
-              "links": [
-                {
-                  "text": "ANNSFU",
-                  "type": "internal",
-                  "page": "All Nepal National Free Students Union"
-                }
-              ]
-            },
-            {
-              "text": "There he was accused of being involved in a student union and was kept under arrest for a few days."
-            },
-            {
-              "text": "After being forced to choose between his education and politics he enrolled in Thabang Secondary School in 1983."
-            },
-            {
-              "text": "While in Thabang he was jailed for three days for his association with student unions."
-            },
-            {
-              "text": "He passed his School Leaving Certificate exams there in 1986.",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "School Leaving Certificate"
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "sentences": [
-            {
-              "text": "He enrolled in Mahendra Bahumukhi Campus in Dang in 1989 to pursue his higher secondary education.",
-              "links": [
-                {
-                  "text": "Dang",
-                  "type": "internal",
-                  "page": "Dang District, Nepal"
-                }
-              ]
-            },
-            {
-              "text": "He completed his graduate education in Political Science.",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "Political Science"
-                }
-              ]
-            },
-            {
-              "text": "While in Dang he was the chairman of the Mashal Samuha.",
-              "links": [
-                {
-                  "text": "Dang",
-                  "type": "internal",
-                  "page": "Dang District, Nepal"
-                }
-              ]
-            }
-          ]
-        }
-      ],
-      "references": [
-        {
-          "url": "http://vpn.gov.np/content.php?id=17",
-          "title": "उपराष्ट्रपतिको कार्यालय",
-          "website": "vpn.gov.np",
-          "language": "en",
-          "access-date": "18 June 2017",
-          "template": "citation",
-          "type": "web"
-        }
-      ]
-    },
-    {
-      "title": "Personal life",
-      "depth": 0,
-      "paragraphs": [
-        {
-          "sentences": [
-            {
-              "text": "While studying in the ninth grade he married Hastamali Pun at the age of 17."
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "title": "References",
-      "depth": 0,
-      "templates": [
-        {
-          "template": "reflist"
         }
       ]
     }

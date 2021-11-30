@@ -196,40 +196,6 @@
           "inline": {}
         }
       ]
-    },
-    {
-      "title": "Controversies",
-      "depth": 0,
-      "paragraphs": [
-        {
-          "sentences": [
-            {
-              "text": "Shrestha was allegedly involved in conflict of interest when he became a committee member to probe the wrongdoings of the medical colleges although he himself had investment in multiple schools and colleges."
-            }
-          ]
-        }
-      ],
-      "references": [
-        {
-          "title": "Lawmakers’ impartiality questioned as they recommend increase in MBBS quotas for medical colleges",
-          "accessdate": "2021-05-15",
-          "url": "https://kathmandupost.com/national/2019/09/12/lawmakers-impartiality-questioned-as-they-recommend-increase-in-mbbs-quotas-for-medical-colleges",
-          "template": "citation",
-          "type": "web"
-        }
-      ]
-    },
-    {
-      "title": "References",
-      "depth": 0,
-      "templates": [
-        {
-          "template": "reflist"
-        },
-        {
-          "template": "nepal-politician-stub"
-        }
-      ]
     }
   ]
 }
