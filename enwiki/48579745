@@ -26,13 +26,8 @@
         {
           "sentences": [
             {
-              "text": "Bidya Devi Bhandari (विद्यादेवी भण्डारी, ; born 19 June 1961) is a Nepalese politician, serving as the second president of Nepal, in office since 28 October 2015.",
+              "text": "Bidya Devi Bhandari (विद्यादेवी भण्डारी, ; born 19 June 1961) is a Nepalese politician who is the second and current president of Nepal.",
               "links": [
-                {
-                  "text": "Nepalese",
-                  "type": "internal",
-                  "page": "Nepal"
-                },
                 {
                   "text": "president of Nepal",
                   "type": "internal",
@@ -44,7 +39,11 @@
                   "Bidya Devi Bhandari"
                 ]
               }
-            },
+            }
+          ]
+        },
+        {
+          "sentences": [
             {
               "text": "She is the first woman to hold the office in the country.",
               "links": [
@@ -63,11 +62,7 @@
                   "page": "Communist Party of Nepal (Unified Marxist–Leninist)"
                 }
               ]
-            }
-          ]
-        },
-        {
-          "sentences": [
+            },
             {
               "text": "Bhandari previously served as the Minister of Defence, the first woman to hold the office, from 2009 to 2011.",
               "links": [
@@ -202,7 +197,7 @@
             ]
           },
           "term_start": {
-            "text": "29 October 2015"
+            "text": "28 October 2015"
           },
           "predecessor": {
             "text": "Ram Baran Yadav",
