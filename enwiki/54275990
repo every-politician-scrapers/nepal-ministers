@@ -86,10 +86,6 @@
           "day": "13",
           "df": "y",
           "template": "birth date and age"
-        },
-        {
-          "date": "July 2021",
-          "template": "fact"
         }
       ],
       "infoboxes": [
@@ -257,6 +253,10 @@
           "language": "en",
           "template": "citation",
           "type": "web"
+        },
+        {
+          "date": "July 2021",
+          "template": "citation needed"
         }
       ]
     }
