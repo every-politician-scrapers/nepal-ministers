@@ -7,7 +7,8 @@
     "Nepali Congress (Democratic) politicians",
     "Year of birth missing (living people)",
     "Nepal MPs 2017–",
-    "Nepal MPs 1991–1994"
+    "Nepal MPs 1991–1994",
+    "Government ministers of Nepal"
   ],
   "sections": [
     {
@@ -17,7 +18,7 @@
         {
           "sentences": [
             {
-              "text": "Bal Krishna Khand (बालकृष्ण खाँड) is a Nepalese politician and the current Home Minister of Nepal. Khand belonging to the Nepali Congress.",
+              "text": "Bal Krishna Khand (बालकृष्ण खाँड) is a Nepalese politician who has served as the Home Minister of Nepal since 2021.",
               "links": [
                 {
                   "text": "Nepalese",
@@ -25,13 +26,9 @@
                   "page": "Nepal"
                 },
                 {
-                  "text": "Home Minister of Nepal.",
+                  "text": "Home Minister of Nepal",
                   "type": "internal",
                   "page": "Ministry of Home Affairs (Nepal)"
-                },
-                {
-                  "type": "internal",
-                  "page": "Nepali Congress"
                 }
               ],
               "formatting": {
@@ -39,6 +36,15 @@
                   "Bal Krishna Khand"
                 ]
               }
+            },
+            {
+              "text": "Khand belonging to the Nepali Congress.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Nepali Congress"
+                }
+              ]
             },
             {
               "text": "Recently, Khand was made Defense Minister of Nepal by the Second Dahal cabinet.",
@@ -106,6 +112,15 @@
               }
             ]
           },
+          "predecessor": {
+            "text": "Bishnu Prasad Paudel",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Bishnu Prasad Paudel"
+              }
+            ]
+          },
           "office1": {
             "text": "Defence Minister of Nepal",
             "links": [
@@ -137,6 +152,24 @@
               {
                 "type": "internal",
                 "page": "Puspha Kamal Dahal"
+              }
+            ]
+          },
+          "predecessor1": {
+            "text": "Bhim Bahadur Rawal",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Bhim Bahadur Rawal"
+              }
+            ]
+          },
+          "successor1": {
+            "text": "Bhimsen Das Pradhan",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Bhimsen Das Pradhan"
               }
             ]
           },

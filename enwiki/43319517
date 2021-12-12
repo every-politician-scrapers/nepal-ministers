@@ -8,7 +8,8 @@
     "Nepali Congress politicians",
     "Government ministers of Nepal",
     "Members of the Nepalese Constituent Assembly",
-    "Nepal MPs 2017–"
+    "Nepal MPs 2017–",
+    "Foreign Ministers of Nepal"
   ],
   "sections": [
     {
@@ -18,7 +19,7 @@
         {
           "sentences": [
             {
-              "text": "Narayan Khadka, a central member of Nepali Congress, and current Foreign minister of Nepal.",
+              "text": "Narayan Khadka is a central member of Nepali Congress who has served as the Foreign minister of Nepal since 2021.",
               "links": [
                 {
                   "type": "internal",

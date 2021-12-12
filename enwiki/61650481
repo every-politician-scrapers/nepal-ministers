@@ -7,7 +7,8 @@
     "Communist Party of Nepal (Maoist Centre) politicians",
     "Nepal Communist Party (NCP) politicians",
     "Nepal MPs 2017–",
-    "People of the Nepalese Civil War"
+    "People of the Nepalese Civil War",
+    "Government ministers of Nepal"
   ],
   "sections": [
     {
@@ -75,6 +76,12 @@
         {
           "description": "Nepali politician",
           "template": "short description"
+        },
+        {
+          "year": "1971",
+          "month": "08",
+          "day": "28",
+          "template": "birth date and age"
         }
       ],
       "infoboxes": [
@@ -105,6 +112,9 @@
                 "page": "Dev Raj Bhar"
               }
             ]
+          },
+          "birth_date": {
+            "text": "August 28, 1971"
           },
           "party": {
             "text": "CPN (Maoist Centre)(from 2018)",
