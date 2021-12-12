@@ -4,7 +4,8 @@
   "categories": [
     "Nepal MPs 2017–",
     "Year of birth missing (living people)",
-    "Living people"
+    "Living people",
+    "Government ministers of Nepal"
   ],
   "sections": [
     {
@@ -55,6 +56,19 @@
         {
           "name": {
             "text": "Rajendra Prasad Shrestha"
+          },
+          "office": {
+            "text": "Minister of Federal Affairs and General Administration",
+            "links": [
+              {
+                "text": "Minister of Federal Affairs and General Administration",
+                "type": "internal",
+                "page": "Ministry of Federal Affairs and General Administration (Nepal)"
+              }
+            ]
+          },
+          "term_start": {
+            "text": "8 October 2021"
           },
           "president": {
             "text": "Bidya Devi Bhandari",

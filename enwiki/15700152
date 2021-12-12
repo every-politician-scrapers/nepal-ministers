@@ -182,6 +182,12 @@
         {
           "description": "Indian born Nepali politician",
           "template": "short description"
+        },
+        {
+          "year": "1963",
+          "month": "06",
+          "day": "19",
+          "template": "birth date and age"
         }
       ],
       "infoboxes": [

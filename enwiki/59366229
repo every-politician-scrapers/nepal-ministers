@@ -9,7 +9,8 @@
     "Nepal MPs 2017–",
     "Nepal MPs 1991–1994",
     "Nepal MPs 1994–1999",
-    "Nepal MPs 1999–2002"
+    "Nepal MPs 1999–2002",
+    "Government ministers of Nepal"
   ],
   "sections": [
     {
@@ -93,24 +94,19 @@
         {
           "description": "Nepali politician",
           "template": "short description"
+        },
+        {
+          "year": "1959",
+          "month": "02",
+          "day": "21",
+          "df": "y",
+          "template": "birth date and age"
         }
       ],
       "infoboxes": [
         {
           "name": {
             "text": "Birodh Khatiwada"
-          },
-          "birth_place": {
-            "text": "Hetauda, Nepal"
-          },
-          "birth_date": {
-            "text": "21 February 1959"
-          },
-          "occupation": {
-            "text": "Politician"
-          },
-          "spouse": {
-            "text": "Munu Sigdel"
           },
           "office": {
             "text": "Minister of Health and Population",
@@ -151,6 +147,18 @@
                 "page": "Makwanpur District"
               }
             ]
+          },
+          "birth_date": {
+            "text": "February 21, 1959"
+          },
+          "birth_place": {
+            "text": "Hetauda, Nepal"
+          },
+          "occupation": {
+            "text": "Politician"
+          },
+          "spouse": {
+            "text": "Munu Sigdel"
           },
           "party": {
             "text": "CPN (Unified Socialist)",
