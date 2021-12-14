@@ -16,16 +16,17 @@
         {
           "sentences": [
             {
-              "text": "Ram Sahaya Yadav is a Nepalese politician, belonging to the People's Socialist Party, Nepal currently serving as the member of the 1st Federal Parliament of Nepal.",
+              "text": "Ram Sahaya Yadav is a Nepalese politician and the current minister for forests and environment of Nepal.",
               "links": [
                 {
+                  "text": "Nepalese",
                   "type": "internal",
-                  "page": "People's Socialist Party, Nepal"
+                  "page": "Nepal"
                 },
                 {
-                  "text": "1st Federal Parliament of Nepal",
+                  "text": "forests and environment",
                   "type": "internal",
-                  "page": "1st Federal Parliament of Nepal"
+                  "page": "Ministry of Forests and Environment (Nepal)"
                 }
               ],
               "formatting": {
@@ -33,6 +34,20 @@
                   "Ram Sahaya Yadav"
                 ]
               }
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "He was a member of the 1st Federal Parliament of Nepal.",
+              "links": [
+                {
+                  "text": "1st Federal Parliament of Nepal",
+                  "type": "internal",
+                  "page": "1st Federal Parliament of Nepal"
+                }
+              ]
             },
             {
               "text": "In the 2017 Nepalese general election he was elected from the Bara 2 constituency, securing 28185 (50.01%) votes.",
@@ -62,6 +77,78 @@
         {
           "name": {
             "text": "Ram Sahaya Yadav"
+          },
+          "office": {
+            "text": "Minister for Forests and Environment",
+            "links": [
+              {
+                "text": "Forests and Environment",
+                "type": "internal",
+                "page": "Ministry of Forests and Environment (Nepal)"
+              }
+            ]
+          },
+          "term_start": {
+            "text": "8 October 2021"
+          },
+          "president": {
+            "text": "Bidhya Devi Bhandari",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Bidhya Devi Bhandari"
+              }
+            ]
+          },
+          "primeminister": {
+            "text": "Sher Bahadur Deuba",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Sher Bahadur Deuba"
+              }
+            ]
+          },
+          "office1": {
+            "text": "Member of House of Representatives",
+            "links": [
+              {
+                "text": "House of Representatives",
+                "type": "internal",
+                "page": "House of Representatives (Nepal)"
+              }
+            ]
+          },
+          "term_start1": {
+            "text": "2017",
+            "number": 2017
+          },
+          "president1": {
+            "text": "Bidya Devi Bhandari",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Bidya Devi Bhandari"
+              }
+            ]
+          },
+          "primeminister1": {
+            "text": "Sher Bahadur Deuba",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Sher Bahadur Deuba"
+              }
+            ]
+          },
+          "constituency1": {
+            "text": "Bara 2",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Bara 2"
+              }
+            ]
           },
           "party": {
             "text": "People's Socialist Party, Nepal",
