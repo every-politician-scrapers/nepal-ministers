@@ -20,7 +20,7 @@
         {
           "sentences": [
             {
-              "text": "Minendra Rijal (मिनेन्द्र रिजाल) is a Nepali politician and current Defence Minister of Nepal.",
+              "text": "Minendra Rijal (मिनेन्द्र रिजाल) is a Nepali politician and former Defence Minister of Nepal.",
               "links": [
                 {
                   "text": "Nepali",
@@ -48,64 +48,6 @@
                   "page": "House of Representatives (Nepal)"
                 }
               ]
-            },
-            {
-              "text": "He is a member of Nepali Congress where he is also a member of the Central Working Committee.",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "Nepali Congress"
-                }
-              ]
-            },
-            {
-              "text": "He served as Minister of Information and Communications during the prime minister-ship of the Sushil Koirala.",
-              "links": [
-                {
-                  "text": "Minister of Information and Communications",
-                  "type": "internal",
-                  "page": "Ministry of Information and Communications (Nepal)"
-                },
-                {
-                  "text": "prime minister-ship",
-                  "type": "internal",
-                  "page": "Koirala cabinet, 2013"
-                },
-                {
-                  "type": "internal",
-                  "page": "Sushil Koirala"
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "sentences": [
-            {
-              "text": "He was elected to parliament from Morang-2 in the 2017 elections.",
-              "links": [
-                {
-                  "text": "2017 elections",
-                  "type": "internal",
-                  "page": "2017 Nepalese legislative election"
-                }
-              ]
-            },
-            {
-              "text": "Morang-2 is the constituency from where Late PM Girija Prasad Koirala used to contest the election.",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "Girija Prasad Koirala"
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "sentences": [
-            {
-              "text": "He was also one of the architects of the mixed electoral system that ensured better social and gender diversity in the Constituent Assembly."
             }
           ]
         }
@@ -140,9 +82,6 @@
           "native_name": {
             "text": "मिनेन्द्र रिजाल"
           },
-          "native_name_lang": {
-            "text": "ne"
-          },
           "office": {
             "text": "Defence Minister of Nepal",
             "links": [
@@ -155,6 +94,9 @@
           },
           "term_start": {
             "text": "8 October 2021"
+          },
+          "term_end": {
+            "text": "16 December 2021"
           },
           "president": {
             "text": "Bidhya Devi Bhandari",
@@ -273,7 +215,7 @@
             "text": "Durga Rijal"
           },
           "alma_mater": {
-            "text": "New York University, New York USA",
+            "text": "New York University, New York, USA",
             "links": [
               {
                 "type": "internal",
@@ -285,34 +227,10 @@
       ],
       "references": [
         {
-          "url": "http://www.myrepublica.com/portal/index.php?action=news_details&news_id=70127",
-          "publisher": "My Republica",
-          "title": "18 Ministers sworn-in, Cabinet meeting held",
-          "date": "25 February 2014",
-          "accessdate": "16 July 2014",
-          "url-status": "dead",
-          "archiveurl": "https://web.archive.org/web/20140720050012/http://www.myrepublica.com/portal/index.php?action=news_details&news_id=70127",
-          "archivedate": "20 July 2014",
           "template": "citation",
-          "type": "web"
-        },
-        {
-          "url": "http://www.nepalitimes.com/blogs/thebrief/2014/02/25/meet-the-new-cabinet-of-ministers/",
-          "date": "25 February 2014",
-          "publisher": "Nepali Times",
-          "title": "The Brief » Blog Archive » Meet the new cabinet of Ministers",
-          "accessdate": "16 July 2014",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "title": "MINENDRA RIJAL",
-          "url": "https://www.c-r.org/people-profiles/minendra-rijal",
-          "website": "www.c-r.org",
-          "publisher": "CONCILIATION RESOURCES",
-          "accessdate": "30 May 2020",
-          "template": "citation",
-          "type": "web"
+          "type": "inline",
+          "data": {},
+          "inline": {}
         }
       ]
     }
