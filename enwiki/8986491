@@ -39,16 +39,16 @@
               }
             },
             {
-              "text": "He was elected to the Pratinidhi Sabha in the 1999 election on behalf of the Nepali Congress.",
+              "text": "He was elected to the Pratinidhi Sabha in the 2017 election on behalf of the Nepali Congress.",
               "links": [
                 {
                   "type": "internal",
                   "page": "Pratinidhi Sabha"
                 },
                 {
-                  "text": "1999 election",
+                  "text": "2017 election",
                   "type": "internal",
-                  "page": "1999 Nepalese legislative election"
+                  "page": "2017 Nepalese legislative election"
                 },
                 {
                   "type": "internal",
@@ -61,7 +61,20 @@
         {
           "sentences": [
             {
-              "text": "He was appointed in 2004 as minister of state for agriculture and cooperation again in 2009 he became health minister representing congress, he hails from bara and won CA election from constituency no 5."
+              "text": "He was appointed in 2004 as minister of state for agriculture and cooperation."
+            },
+            {
+              "text": "In 2009 he became Health Minister."
+            },
+            {
+              "text": "He hails from Bara and elected from Bara 1.",
+              "links": [
+                {
+                  "text": "Bara 1",
+                  "type": "internal",
+                  "page": "Bara 1 (constituency)"
+                }
+              ]
             }
           ]
         }
@@ -91,6 +104,27 @@
             "text": "उमा कान्त चौधरी"
           },
           "office": {
+            "text": "Deputy General Secretary of Nepali Congress",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Nepali Congress"
+              }
+            ]
+          },
+          "term_start": {
+            "text": "17 December 2021"
+          },
+          "predecessor": {
+            "text": "Prakash Sharan Mahat",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Prakash Sharan Mahat"
+              }
+            ]
+          },
+          "office1": {
             "text": "Minister for Water Supply",
             "links": [
               {
@@ -100,47 +134,15 @@
               }
             ]
           },
-          "term_start": {
+          "term_start1": {
             "text": "8 October 2021"
           },
-          "president": {
+          "president1": {
             "text": "Bidhya Devi Bhandari",
             "links": [
               {
                 "type": "internal",
                 "page": "Bidhya Devi Bhandari"
-              }
-            ]
-          },
-          "primeminister": {
-            "text": "Sher Bahadur Deuba",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Sher Bahadur Deuba"
-              }
-            ]
-          },
-          "office1": {
-            "text": "Member of House of Representatives",
-            "links": [
-              {
-                "text": "House of Representatives",
-                "type": "internal",
-                "page": "House of Representatives (Nepal)"
-              }
-            ]
-          },
-          "term_start1": {
-            "text": "2017",
-            "number": 2017
-          },
-          "president1": {
-            "text": "Bidya Devi Bhandari",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Bidya Devi Bhandari"
               }
             ]
           },
@@ -153,7 +155,39 @@
               }
             ]
           },
-          "constituency1": {
+          "office2": {
+            "text": "Member of House of Representatives",
+            "links": [
+              {
+                "text": "House of Representatives",
+                "type": "internal",
+                "page": "House of Representatives (Nepal)"
+              }
+            ]
+          },
+          "term_start2": {
+            "text": "2017",
+            "number": 2017
+          },
+          "president2": {
+            "text": "Bidya Devi Bhandari",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Bidya Devi Bhandari"
+              }
+            ]
+          },
+          "primeminister2": {
+            "text": "Sher Bahadur Deuba",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Sher Bahadur Deuba"
+              }
+            ]
+          },
+          "constituency2": {
             "text": "Bara 1",
             "links": [
               {
@@ -180,10 +214,36 @@
                 "page": "Nepal"
               }
             ]
+          },
+          "birth_place": {
+            "text": "Bara, Province No. 2, Nepal",
+            "links": [
+              {
+                "text": "Bara",
+                "type": "internal",
+                "page": "Bara District"
+              },
+              {
+                "type": "internal",
+                "page": "Province No. 2"
+              },
+              {
+                "type": "internal",
+                "page": "Nepal"
+              }
+            ]
           }
         }
       ],
       "references": [
+        {
+          "title": "Council of Ministers {{!}} Office of the Prime Minister and Council of Ministers",
+          "url": "https://www.opmcm.gov.np/en/cabinet/",
+          "access-date": "2021-12-17",
+          "language": "en-US",
+          "template": "citation",
+          "type": "web"
+        },
         {
           "template": "citation",
           "type": "inline",
@@ -191,8 +251,22 @@
           "inline": {}
         },
         {
-          "date": "July 2010",
-          "template": "citation needed"
+          "title": "निर्वाचन मतगणनाको परिणाम",
+          "url": "https://result.election.gov.np/ElectionResultCentral.aspx",
+          "access-date": "2021-12-17",
+          "website": "result.election.gov.np",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "last": "Setopati",
+          "first": "Setopati ::",
+          "title": "NC candidate Chaudhary wins from Bara-1",
+          "url": "https://en.setopati.com/political/112720/",
+          "access-date": "2021-12-17",
+          "website": "Setopati",
+          "template": "citation",
+          "type": "web"
         }
       ]
     }
