@@ -261,26 +261,6 @@
           "template": "use dmy dates"
         },
         {
-          "list": [
-            "Additional senior positions"
-          ],
-          "template": "collapsed infobox section begin"
-        },
-        {
-          "template": "collapsed infobox section end"
-        },
-        {
-          "cont": "yes",
-          "last": "yes",
-          "list": [
-            "Parliamentary offices"
-          ],
-          "template": "collapsed infobox section begin"
-        },
-        {
-          "template": "collapsed infobox section end"
-        },
-        {
           "year": "1946",
           "month": "06",
           "day": "13",
