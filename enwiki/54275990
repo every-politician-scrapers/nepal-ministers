@@ -17,7 +17,7 @@
         {
           "sentences": [
             {
-              "text": "Gyanendra Bahadur Karki (Nepali:ज्ञानेन्द्र बहादुर कार्की) is a Nepali politician from Nepali Congress and the current Minister for Information and Communications of Nepal.",
+              "text": "Gyanendra Bahadur Karki (Nepali:ज्ञानेन्द्र बहादुर कार्की) is a Nepali politician from Nepali Congress.",
               "links": [
                 {
                   "text": "Nepali",
@@ -32,11 +32,6 @@
                 {
                   "type": "internal",
                   "page": "Nepali Congress"
-                },
-                {
-                  "text": "Minister for Information and Communications of Nepal",
-                  "type": "internal",
-                  "page": "Ministry of Information and Communications (Nepal)"
                 }
               ],
               "formatting": {
@@ -46,15 +41,21 @@
               }
             },
             {
-              "text": "He was Finance Minister under Sher Bahadur Deuba and Khadga Prasad Oli led Government.",
+              "text": "He is the current Minister for Information and Communications of Nepal.",
+              "links": [
+                {
+                  "text": "Minister for Information and Communications of Nepal",
+                  "type": "internal",
+                  "page": "Ministry of Information and Communications (Nepal)"
+                }
+              ]
+            },
+            {
+              "text": "He was Finance Minister under Deuba cabinet, 2017.",
               "links": [
                 {
                   "type": "internal",
-                  "page": "Sher Bahadur Deuba"
-                },
-                {
-                  "type": "internal",
-                  "page": "Khadga Prasad Oli"
+                  "page": "Deuba cabinet, 2017"
                 }
               ]
             },
