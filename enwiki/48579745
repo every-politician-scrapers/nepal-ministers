@@ -218,7 +218,13 @@
             ]
           },
           "president1": {
-            "text": "Ram Baran Yadav"
+            "text": "Ram Baran Yadav",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Ram Baran Yadav"
+              }
+            ]
           },
           "primeminister1": {
             "text": "Madhav Kumar Nepal",
