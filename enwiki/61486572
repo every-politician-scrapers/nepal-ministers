@@ -106,24 +106,26 @@
           "name": {
             "text": "Bodhmaya Kumari Yadav"
           },
+          "office": {
+            "text": "Ministry of Education Science and Technology"
+          },
+          "birth_place": {
+            "text": "Dhanusha"
+          },
           "party": {
-            "text": "CPN (Unified Socialist)",
-            "links": [
-              {
-                "type": "internal",
-                "page": "CPN (Unified Socialist)"
-              }
-            ]
+            "text": "[CPN(MC)]"
           },
           "nationality": {
-            "text": "Nepali",
+            "text": "Nepal",
             "links": [
               {
-                "text": "Nepali",
                 "type": "internal",
                 "page": "Nepal"
               }
             ]
+          },
+          "occupation": {
+            "text": "Politician"
           }
         }
       ],
