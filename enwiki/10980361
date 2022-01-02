@@ -101,30 +101,6 @@
             ]
           }
         }
-      ],
-      "references": [
-        {
-          "url": "http://www.nepalnews.com.np/archive/2007/apr/apr29/news09.php",
-          "title": "Pokhrel appointed Health Minister",
-          "date": "2007-04-29",
-          "website": "Nepalnews.com",
-          "archive-url": "https://web.archive.org/web/20070518150521/http://www.nepalnews.com.np/archive/2007/apr/apr29/news09.php",
-          "archive-date": "2007-05-18",
-          "access-date": "2017-04-16",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "url": "http://www.nepalitimes.com/issue/150/FromtheNepaliPress/2818",
-          "title": "Party woman",
-          "date": "2003-06-20",
-          "website": "Nepali Times",
-          "archive-url": "https://web.archive.org/web/20061116111156/http://www.nepalitimes.com/issue/150/FromtheNepaliPress/2818",
-          "archive-date": "2006-11-16",
-          "url-status": "dead",
-          "template": "citation",
-          "type": "web"
-        }
       ]
     }
   ]

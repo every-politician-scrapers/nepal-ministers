@@ -70,23 +70,6 @@
             ]
           }
         }
-      ],
-      "references": [
-        {
-          "url": "https://myrepublica.nagariknetwork.com/news/32393/",
-          "title": "UML makes a clean sweep in Tehrathum",
-          "first": "KULCHAND",
-          "last": "PHOMBO",
-          "website": "My Republica",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "url": "https://www.nepalitimes.com/blogs/thebrief/2013/11/22/vote-countingday-iii/",
-          "title": "Nepali Times - The Brief » Blog Archive » Vote counting,day III",
-          "template": "citation",
-          "type": "web"
-        }
       ]
     }
   ]

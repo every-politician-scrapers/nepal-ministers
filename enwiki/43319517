@@ -282,53 +282,6 @@
             ]
           }
         }
-      ],
-      "references": [
-        {
-          "url": "http://www.myrepublica.com/portal/index.php?action=news_details&news_id=70127",
-          "publisher": "My Republica",
-          "title": "18 Ministers sworn-in, Cabinet meeting held",
-          "date": "25 February 2014",
-          "accessdate": "17 July 2014",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "url": "http://www.nepalitimes.com/blogs/thebrief/2014/02/25/meet-the-new-cabinet-of-ministers/",
-          "date": "25 February 2014",
-          "publisher": "Nepali Times",
-          "title": "Nepali Times {{!}} The Brief » Blog Archive » Meet the new cabinet of Ministers",
-          "accessdate": "17 July 2014",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "url": "http://www.myrepublica.com/election/dr.php?dr=2",
-          "publisher": "MyRepublica.com",
-          "title": "MyRepublica :: Election Special",
-          "accessdate": "17 July 2014",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "url": "http://election.nepalnews.com/elected.htm",
-          "publisher": "Nepalnews.com",
-          "title": "Nepalnews.com - News from Nepal as it happens :: Elected Members",
-          "accessdate": "17 July 2014",
-          "url-status": "dead",
-          "archiveurl": "https://web.archive.org/web/20140714213320/http://election.nepalnews.com/elected.htm",
-          "archivedate": "14 July 2014",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "url": "http://election.ujyaaloonline.com/candidates/179/Dr.-Narayan-Khadka/",
-          "title": "Election Candidate - Dr. Narayan Khadka",
-          "publisher": "Ujyaaloonline.com",
-          "accessdate": "17 July 2014",
-          "template": "citation",
-          "type": "web"
-        }
       ]
     }
   ]
