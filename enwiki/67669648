@@ -108,24 +108,6 @@
             ]
           }
         }
-      ],
-      "references": [
-        {
-          "template": "citation",
-          "type": "inline",
-          "data": {},
-          "inline": {}
-        },
-        {
-          "last": "Sureis",
-          "title": "Review electoral system for good governance, says CIAA chief",
-          "work": "The Himalayan Times",
-          "accessdate": "2021-05-15",
-          "date": "2019-04-03",
-          "url": "https://thehimalayantimes.com/kathmandu/review-electoral-system-for-good-governance-says-ciaa-chief-nabin-kumar-ghimire",
-          "template": "citation",
-          "type": "web"
-        }
       ]
     }
   ]

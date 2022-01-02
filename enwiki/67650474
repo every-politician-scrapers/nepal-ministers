@@ -170,21 +170,6 @@
             ]
           }
         }
-      ],
-      "references": [
-        {
-          "template": "citation",
-          "type": "inline",
-          "data": {},
-          "inline": {}
-        },
-        {
-          "title": "SSFN Ramsahaya Yadav emerges victorious from Bara-2",
-          "accessdate": "2021-05-13",
-          "url": "https://kathmandupost.com/national/2017/12/10/ssfn-ram-raya-yadav-emerges-victorious-from-bara-2",
-          "template": "citation",
-          "type": "web"
-        }
       ]
     }
   ]

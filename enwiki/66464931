@@ -181,26 +181,6 @@
             ]
           }
         }
-      ],
-      "references": [
-        {
-          "url": "https://www.aninews.in/news/world/asia/oli-inducts-8-reassigns-6-ministers-on-board-after-dissolving-parliament20201225214829/",
-          "title": "Oli inducts 8, reassigns 6 Ministers on board after dissolving parliament",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "template": "citation",
-          "type": "inline",
-          "data": {},
-          "inline": {}
-        },
-        {
-          "template": "citation",
-          "type": "inline",
-          "data": {},
-          "inline": {}
-        }
       ]
     }
   ]

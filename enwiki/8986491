@@ -234,40 +234,6 @@
             ]
           }
         }
-      ],
-      "references": [
-        {
-          "title": "Council of Ministers {{!}} Office of the Prime Minister and Council of Ministers",
-          "url": "https://www.opmcm.gov.np/en/cabinet/",
-          "access-date": "2021-12-17",
-          "language": "en-US",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "template": "citation",
-          "type": "inline",
-          "data": {},
-          "inline": {}
-        },
-        {
-          "title": "निर्वाचन मतगणनाको परिणाम",
-          "url": "https://result.election.gov.np/ElectionResultCentral.aspx",
-          "access-date": "2021-12-17",
-          "website": "result.election.gov.np",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "last": "Setopati",
-          "first": "Setopati ::",
-          "title": "NC candidate Chaudhary wins from Bara-1",
-          "url": "https://en.setopati.com/political/112720/",
-          "access-date": "2021-12-17",
-          "website": "Setopati",
-          "template": "citation",
-          "type": "web"
-        }
       ]
     }
   ]

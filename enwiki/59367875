@@ -107,30 +107,6 @@
             ]
           }
         }
-      ],
-      "references": [
-        {
-          "url": "https://myrepublica.nagariknetwork.com/news/29367/",
-          "title": "CPN-MC selects its candidates for twin elections",
-          "last": "Republica",
-          "website": "My Republica",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "url": "https://myrepublica.nagariknetwork.com/news/35130/",
-          "title": "Maoist Center leader Aryal slaps lawmakers Paudel, Ghartimagar",
-          "website": "My Republica",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "url": "https://kathmandupost.ekantipur.com/news/2017-12-09/maoist-centres-poudel-elected-in-baglung-2.html",
-          "title": "Maoist Centre's Poudel elected in Baglung-2",
-          "website": "kathmandupost.ekantipur.com",
-          "template": "citation",
-          "type": "web"
-        }
       ]
     }
   ]
