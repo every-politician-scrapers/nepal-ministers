@@ -18,12 +18,16 @@
         {
           "sentences": [
             {
-              "text": "Prem Bahadur Ale Magar is a Nepalese politician who has served as the Minister of Culture, Tourism and Civil Aviation since 2021.",
+              "text": "Prem Bahadur Ale Magar (born 28 April 1970) is a Nepali politician who has served as the Minister of Culture, Tourism and Civil Aviation since October 2021 in the ruling Nepali Congress government.",
               "links": [
                 {
                   "text": "Minister of Culture, Tourism and Civil Aviation",
                   "type": "internal",
                   "page": "Ministry of Culture, Tourism and Civil Aviation (Nepal)"
+                },
+                {
+                  "type": "internal",
+                  "page": "Nepali Congress"
                 }
               ],
               "formatting": {
@@ -49,10 +53,22 @@
                   "page": "CPN (Unified Socialist)"
                 }
               ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "He started his career as a local cadre first being elected as a ward member in Doti."
             },
             {
-              "text": "He was elected, in the elections held in 2017, as a member of the House of Representatives from Doti 1 (constituency).",
+              "text": "After losing by a thin-margin in the 2013 Constituent Assembly, he was elected, in the elections held in 2017, as a member of the House of Representatives from Doti 1 (constituency).",
               "links": [
+                {
+                  "text": "2013 Constituent Assembly",
+                  "type": "internal",
+                  "page": "2008 Nepalese Constituent Assembly election"
+                },
                 {
                   "type": "internal",
                   "page": "Doti 1 (constituency)"
@@ -180,6 +196,13 @@
                 "page": "CPN (Unified Socialist)"
               }
             ]
+          },
+          "image": {
+            "text": "Prem Ale.jpg"
+          },
+          "image_size": {
+            "text": "270",
+            "number": 270
           }
         }
       ]
