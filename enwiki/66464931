@@ -37,10 +37,10 @@
               }
             },
             {
-              "text": "He also served as Minister of Forests and Environment of Government of Nepal from 25th December of 2020 to 4th June of 2021 He belongs to CPN (Unified Socialist).",
+              "text": "He was previously serving in the capacity of Forests and Environment Minister of Government of Nepal from 25th December of 2020 to 4th June of 2021 He belongs to CPN (Unified Socialist).",
               "links": [
                 {
-                  "text": "Minister of Forests and Environment",
+                  "text": "Forests and Environment Minister",
                   "type": "internal",
                   "page": "Ministry of Forests and Environment (Nepal)"
                 },
@@ -74,6 +74,29 @@
                   "page": "Doti 1 (constituency)"
                 }
               ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "In 2022, Ale gained widespread popularity after exposing the corruption behind land appropriation in the Narayanhiti Palace by Yogesh Bhattarai.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Narayanhiti Palace"
+                },
+                {
+                  "type": "internal",
+                  "page": "Yogesh Bhattarai"
+                }
+              ]
+            },
+            {
+              "text": "He further accused Bhattarai of taking part in illegal gun smuggling after the end of the Civil War in 2008."
+            },
+            {
+              "text": "He was praised by Prime Minister Sher Bahadur Deuba for his bold actions and he has vowed stern action against those accused in the fraud."
             }
           ]
         }
