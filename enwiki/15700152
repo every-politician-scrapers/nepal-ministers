@@ -21,12 +21,17 @@
         {
           "sentences": [
             {
-              "text": "Renu Kumari Yadav (Nepali: रेणु कुमारी यादव) was born on June 19, 1963 in Forbesganj, India to Rameshwor Prasad and Chintamani Devi Yadav.",
+              "text": "Renu Kumari Yadav (Nepali: रेणु कुमारी यादव) is a Nepali politician and member of House of Representatives on proportional representation.",
               "links": [
                 {
                   "text": "Nepali",
                   "type": "internal",
                   "page": "Nepali language"
+                },
+                {
+                  "text": "House of Representatives",
+                  "type": "internal",
+                  "page": "House of Representatives (Nepal)"
                 }
               ],
               "formatting": {
@@ -34,147 +39,20 @@
                   "Renu Kumari Yadav"
                 ]
               }
-            },
-            {
-              "text": "Nepalese politician, belonging to the Ahir community, who was appointed as the Minister of Education in 2008.",
-              "links": [
-                {
-                  "text": "Nepalese",
-                  "type": "internal",
-                  "page": "Nepal"
-                },
-                {
-                  "type": "internal",
-                  "page": "Ahir"
-                }
-              ]
-            },
-            {
-              "text": "She is a member of the Madhesi Janadhikar Forum.",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "Madhesi Janadhikar Forum"
-                }
-              ]
             }
           ]
         },
         {
           "sentences": [
             {
-              "text": "Yadav was elected as a Rastriya Prajatantra Party (RPP) candidate to the Pratinidhi Sabha in the 1999 election from the Saptari-3 constituency, with 17231 votes.",
+              "text": "She is the current Minister for Physical Infrastructure and Transportation of Nepal.",
               "links": [
                 {
+                  "text": "Physical Infrastructure and Transportation",
                   "type": "internal",
-                  "page": "Rastriya Prajatantra Party"
-                },
-                {
-                  "type": "internal",
-                  "page": "Pratinidhi Sabha"
-                },
-                {
-                  "text": "1999 election",
-                  "type": "internal",
-                  "page": "1999 Nepalese legislative election"
-                },
-                {
-                  "type": "internal",
-                  "page": "Saptari"
+                  "page": "Ministry of Physical Infrastructure and Transport (Nepal)"
                 }
               ]
-            },
-            {
-              "text": "In 2002 she was elected to the central committee of the RPP.",
-              "links": [
-                {
-                  "text": "central committee",
-                  "type": "internal",
-                  "page": "central committee"
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "sentences": [
-            {
-              "text": "In June 2003, she was named Minister for Women, Children and Social Affairs in the Surya Bahadur Thapa-led cabinet appointed by King Gyanendra.",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "Surya Bahadur Thapa"
-                },
-                {
-                  "type": "internal",
-                  "page": "King Gyanendra"
-                }
-              ]
-            },
-            {
-              "text": "When the RPP was divided and Thapa broke away and formed the Rastriya Janshakti Party, Yadav joined RJP.",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "Rastriya Janshakti Party"
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "sentences": [
-            {
-              "text": "In February 2008 she resigned from the parliament and left RJP, in support of the Madhesi agitation.",
-              "links": [
-                {
-                  "text": "Madhesi",
-                  "type": "internal",
-                  "page": "Madhes"
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "sentences": [
-            {
-              "text": "In April 2008, she won the Saptari-4 seat in the Constituent Assembly election as a Madhesi Janadhikar Forum candidate with 12,681 votes.",
-              "links": [
-                {
-                  "text": "Saptari",
-                  "type": "internal",
-                  "page": "saptari district"
-                },
-                {
-                  "text": "Constituent Assembly election",
-                  "type": "internal",
-                  "page": "2008 Nepalese Constituent Assembly election"
-                },
-                {
-                  "type": "internal",
-                  "page": "Madhesi Janadhikar Forum"
-                }
-              ]
-            },
-            {
-              "text": "Her closest opponent Jismul Kha received 7,590 votes while another opponent NC’s Dinesh Kumar Yadav received 6,070 votes."
-            },
-            {
-              "text": ".",
-              "links": [
-                {
-                  "text": "",
-                  "type": "external",
-                  "site": "https://web.archive.org/web/20160625053542/http://election.ujyaaloonline.com/candidates/4670/Renu-Kumari-Yadav/"
-                }
-              ]
-            },
-            {
-              "text": "In late May 2008, she was included in the central committee of MJF."
-            },
-            {
-              "text": "She was subsequently appointed as Minister of Education and sworn in on August 22, 2008."
             }
           ]
         }
@@ -194,27 +72,142 @@
       "infoboxes": [
         {
           "name": {
-            "text": "Renu Kumari Yadav"
+            "text": "Renu Yadav"
+          },
+          "native_name": {
+            "text": "रेणु यादव"
+          },
+          "office": {
+            "text": "Minister for Physical Infrastructure and Transportation",
+            "links": [
+              {
+                "text": "Minister for Physical Infrastructure and Transportation",
+                "type": "internal",
+                "page": "Ministry of Physical Infrastructure and Transport (Nepal)"
+              }
+            ]
+          },
+          "term_start": {
+            "text": "2021",
+            "number": 2021
+          },
+          "president": {
+            "text": "Bidhya Devi Bhandari"
+          },
+          "primeminister": {
+            "text": "Sher Bahadur Deuba"
+          },
+          "office1": {
+            "text": "Minister for Education",
+            "links": [
+              {
+                "text": "Minister for Education",
+                "type": "internal",
+                "page": "Ministry of Education, Science and Technology (Nepal)"
+              }
+            ]
+          },
+          "term_start1": {
+            "text": "2008",
+            "number": 2008
+          },
+          "term_end1": {
+            "text": "2009",
+            "number": 2009
+          },
+          "president1": {
+            "text": "Ram Baran Yadav"
+          },
+          "primeminister1": {
+            "text": "Pushpa Kamal Dahal"
+          },
+          "office2": {
+            "text": "Minister for Women, Children and Social Affairs",
+            "links": [
+              {
+                "text": "Minister for Women, Children and Social Affairs",
+                "type": "internal",
+                "page": "Ministry of Women, Children and Senior Citizens (Nepal)"
+              }
+            ]
+          },
+          "term_start2": {
+            "text": "2003",
+            "number": 2003
+          },
+          "term_end2": {
+            "text": "2004",
+            "number": 2004
+          },
+          "monarch2": {
+            "text": "Birendra of Nepal",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Birendra of Nepal"
+              }
+            ]
+          },
+          "primeminister2": {
+            "text": "Surya Bahadur Thapa",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Surya Bahadur Thapa"
+              }
+            ]
           },
           "birth_date": {
             "text": "June 19, 1963"
           },
           "birth_place": {
-            "text": "Forbesganj, India",
+            "text": "Forbesganj, Bihar, India",
             "links": [
               {
                 "type": "internal",
                 "page": "Forbesganj"
+              },
+              {
+                "type": "internal",
+                "page": "Bihar"
+              },
+              {
+                "type": "internal",
+                "page": "India"
               }
             ]
           },
           "party": {
-            "text": "PSP-N",
+            "text": "People's Socialist Party, Nepal",
             "links": [
               {
-                "text": "PSP-N",
                 "type": "internal",
                 "page": "People's Socialist Party, Nepal"
+              }
+            ]
+          },
+          "otherparty": {
+            "text": "Rastriya Prajatantra Party Rastriya Janashakti Party Madhesi Jana Adhikar Forum, Nepal Federal Socialist Forum, Nepal Samajbadi Party, Nepal",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Rastriya Prajatantra Party"
+              },
+              {
+                "type": "internal",
+                "page": "Rastriya Janashakti Party"
+              },
+              {
+                "type": "internal",
+                "page": "Madhesi Jana Adhikar Forum, Nepal"
+              },
+              {
+                "type": "internal",
+                "page": "Federal Socialist Forum, Nepal"
+              },
+              {
+                "type": "internal",
+                "page": "Samajbadi Party, Nepal"
               }
             ]
           },
