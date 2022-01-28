@@ -170,6 +170,22 @@
                 "page": "Sher Bahadur Deuba"
               }
             ]
+          },
+          "office1": {
+            "text": "Secretary of CPN (Unified Socialist)",
+            "links": [
+              {
+                "text": "CPN (Unified Socialist)",
+                "type": "internal",
+                "page": "Communist Party of Nepal (Unified Socialist)"
+              }
+            ]
+          },
+          "termstart1": {
+            "text": "23 September 2021"
+          },
+          "predecessor1": {
+            "text": "Position created"
           }
         }
       ]
