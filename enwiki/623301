@@ -15,7 +15,7 @@
     "Nepal MPs 2017–",
     "Nepalese Hindus",
     "Nepali Congress (Democratic) politicians",
-    "Nepali Congress politicians",
+    "Nepali Congress politicians from Sudurpashchim Province",
     "People from Dadeldhura District",
     "People of the Nepalese Civil War",
     "Prime ministers of Nepal",
@@ -348,6 +348,15 @@
           "term_end1": {
             "text": "15 February 2018"
           },
+          "deputy1": {
+            "text": "Bijay Kumar Gachhadar",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Bijay Kumar Gachhadar"
+              }
+            ]
+          },
           "predecessor1": {
             "text": "Pushpa Kamal Dahal",
             "links": [
@@ -530,6 +539,19 @@
           },
           "term_start6": {
             "text": "7 March 2016"
+          },
+          "deputy6": {
+            "text": "Bimalendra Nidhi Bijay Kumar Gachhadar",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Bimalendra Nidhi"
+              },
+              {
+                "type": "internal",
+                "page": "Bijay Kumar Gachhadar"
+              }
+            ]
           },
           "predecessor6": {
             "text": "Sushil Koirala",
@@ -722,7 +744,7 @@
             "text": "Signature of Sher Bahadur Deuba.png"
           },
           "website": {
-            "text": "opmcm.gov.np/"
+            "text": "sherbahadurdeuba.com/"
           }
         }
       ]
