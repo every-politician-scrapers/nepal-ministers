@@ -15,7 +15,15 @@
         {
           "sentences": [
             {
-              "text": "Bhawani Prasad Khapung (भवानीप्रसाद खापुङ) is a Nepalese Politician and serving as the Member Of House Of Representatives (Nepal) elected from Terathum-1, Province No. 4. He is member of the CPN (Unified Socialist).",
+              "text": "Bhawani Prasad Khapung (भवानीप्रसाद खापुङ) is a Nepalese Politician and Minister of state for Health and Population.",
+              "formatting": {
+                "bold": [
+                  "Bhawani Prasad Khapung"
+                ]
+              }
+            },
+            {
+              "text": "He is also serving as the Member Of House Of Representatives elected from Terathum 1 constituency.",
               "links": [
                 {
                   "text": "House Of Representatives",
@@ -23,19 +31,21 @@
                   "page": "Federal Parliament of Nepal"
                 },
                 {
+                  "text": "Terathum 1",
                   "type": "internal",
-                  "page": "Terathum"
-                },
-                {
-                  "type": "internal",
-                  "page": "CPN (Unified Socialist)"
+                  "page": "Tehrathum 1 (constituency)"
                 }
-              ],
-              "formatting": {
-                "bold": [
-                  "Bhawani Prasad Khapung"
-                ]
-              }
+              ]
+            },
+            {
+              "text": "He is member of the CPN (Unified Socialist).",
+              "links": [
+                {
+                  "text": "CPN (Unified Socialist)",
+                  "type": "internal",
+                  "page": "Communist Party of Nepal (Unified Socialist)"
+                }
+              ]
             }
           ]
         }
@@ -51,12 +61,97 @@
           "name": {
             "text": "Bhawani Prasad Khapung"
           },
+          "honorific_prefix": {
+            "text": "Honourable",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Honourable"
+              }
+            ]
+          },
+          "native_name": {
+            "text": "भवानी प्रसाद खापुङ"
+          },
+          "office": {
+            "text": "Minister of State of Health and Population",
+            "links": [
+              {
+                "text": "Minister of State of Health and Population",
+                "type": "internal",
+                "page": "Ministry of Health and Population (Nepal)"
+              }
+            ]
+          },
+          "term_start": {
+            "text": "8 October 2021"
+          },
+          "predecessor": {
+            "text": "Nawaraj Rawat",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Nawaraj Rawat"
+              }
+            ]
+          },
+          "primeminister": {
+            "text": "Sher Bahadur Deuba",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Sher Bahadur Deuba"
+              }
+            ]
+          },
+          "office1": {
+            "text": "Member of House of Representatives",
+            "links": [
+              {
+                "text": " House of Representatives",
+                "type": "internal",
+                "page": "House of Representatives (Nepal)"
+              }
+            ]
+          },
+          "term_start1": {
+            "text": "2017",
+            "number": 2017
+          },
+          "constituency1": {
+            "text": "Terhathum 1",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Terhathum 1"
+              }
+            ]
+          },
+          "president1": {
+            "text": "Bidhya Devi Bhandari",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Bidhya Devi Bhandari"
+              }
+            ]
+          },
+          "primeminister1": {
+            "text": "Sher Bahadur Deuba",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Sher Bahadur Deuba"
+              }
+            ]
+          },
           "party": {
             "text": "CPN (Unified Socialist)",
             "links": [
               {
+                "text": "CPN (Unified Socialist)",
                 "type": "internal",
-                "page": "CPN (Unified Socialist)"
+                "page": "Communist Party of Nepal (Unified Socialist)"
               }
             ]
           },

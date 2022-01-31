@@ -20,74 +20,46 @@
         {
           "sentences": [
             {
-              "text": "Ram Kumari Jhakri, also Ramkumari Jhakri, (रामकुमारी झाँक्री) is a Nepalese politician, currently Minister of Urban Development, member of parliament and former president of All Nepal National Free Students Union (ANNFSU).",
+              "text": "Ram Kumari Jhakri (रामकुमारी झाँक्री) is a Nepalese politician and secretary of CPN (Unified Socialist).",
+              "links": [
+                {
+                  "text": "CPN (Unified Socialist)",
+                  "type": "internal",
+                  "page": "Communist Party of Nepal (Unified Socialist)"
+                }
+              ],
               "formatting": {
                 "bold": [
-                  "Ram Kumari Jhakri",
-                  "Ramkumari Jhakri"
+                  "Ram Kumari Jhakri"
                 ]
               }
             },
             {
-              "text": "She currently serves as a legislator at the lower assembly of the federal parliament, representing the CPN (Unified Socialist).",
+              "text": "She is also the current Minister of Urban Development.",
               "links": [
                 {
+                  "text": "Minister of Urban Development",
                   "type": "internal",
-                  "page": "CPN (Unified Socialist)"
+                  "page": "Ministry of Urban Development (Nepal)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "She currently serves as a member of House of Representatives.",
+              "links": [
+                {
+                  "text": "House of Representatives",
+                  "type": "internal",
+                  "page": "House of Representatives (Nepal)"
                 }
               ]
             },
             {
               "text": "She supports reservation for women in the civil service."
-            }
-          ]
-        },
-        {
-          "sentences": [
-            {
-              "text": "On 4 May 2019, she gave an interview to the talk show Janata janna chahanchhan (translation:People Want to Know) on Prime Times Television, in which she criticised her own party leader and prime minister KP Sharma Oli on the government's program for the fiscal year 2019-20.",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "KP Sharma Oli"
-                }
-              ],
-              "formatting": {
-                "italic": [
-                  "Janata janna chahanchhan",
-                  "People Want to Know"
-                ]
-              }
-            },
-            {
-              "text": "She said the prime minister's programs were an insult to republicanism."
-            },
-            {
-              "text": "She has also been critical of finance minister Yubaraj Khatiwada in the past.",
-              "links": [
-                {
-                  "text": "Yubaraj Khatiwada",
-                  "type": "internal",
-                  "page": "Yuba Raj Khatiwada"
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "sentences": [
-            {
-              "text": "She was the first woman to be elected president of a major party affiliate student union."
-            },
-            {
-              "text": "As the president of ANNFSU, she was one of the central figures protesting during the 2006 democracy movement in Nepal.",
-              "links": [
-                {
-                  "text": "2006 democracy movement in Nepal",
-                  "type": "internal",
-                  "page": "2006 democracy movement in Nepal"
-                }
-              ]
             }
           ]
         }
@@ -101,16 +73,19 @@
       "infoboxes": [
         {
           "honorific_prefix": {
-            "text": "The Right Honourable",
+            "text": "Honourable",
             "links": [
               {
                 "type": "internal",
-                "page": "The Right Honourable"
+                "page": "Honourable"
               }
             ]
           },
           "name": {
             "text": "Ram Kumari Jhakri"
+          },
+          "native_name": {
+            "text": "राम कुमारी झाँक्री"
           },
           "image": {
             "text": "Ram Kumari Jhakri3.JPG"
@@ -132,8 +107,9 @@
             "text": "CPN (Unified Socialist)",
             "links": [
               {
+                "text": "CPN (Unified Socialist)",
                 "type": "internal",
-                "page": "CPN (Unified Socialist)"
+                "page": "Communist Party of Nepal (Unified Socialist)"
               }
             ]
           },
