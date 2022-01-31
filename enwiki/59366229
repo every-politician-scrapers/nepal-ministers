@@ -21,24 +21,12 @@
         {
           "sentences": [
             {
-              "text": "Birodh Khatiwada is a Nepalese politician and a member of the House of Representatives (Nepal) elected from Makwanpur District-2, Province No. 3. He is a member of the Nepal Communist Party.",
+              "text": "Birodh Khatiwada is a Nepalese politician belonging to CPN (Unified Socialist).",
               "links": [
                 {
+                  "text": "CPN (Unified Socialist)",
                   "type": "internal",
-                  "page": "Khatiwada"
-                },
-                {
-                  "text": "House of Representatives",
-                  "type": "internal",
-                  "page": "Federal Parliament of Nepal"
-                },
-                {
-                  "type": "internal",
-                  "page": "Makwanpur District"
-                },
-                {
-                  "type": "internal",
-                  "page": "Nepal Communist Party"
+                  "page": "Communist Party of Nepal (Unified Socialist)"
                 }
               ],
               "formatting": {
@@ -48,32 +36,17 @@
               }
             },
             {
-              "text": "He is the father of Miss Nepal 2018 Shrinkhala Khatiwada.",
+              "text": "He is also a member of the House of Representatives from Makwanpur 2 constituency.",
               "links": [
                 {
+                  "text": "House of Representatives",
                   "type": "internal",
-                  "page": "Miss Nepal 2018"
+                  "page": "Federal Parliament of Nepal"
                 },
                 {
+                  "text": "Makwanpur 2",
                   "type": "internal",
-                  "page": "Shrinkhala Khatiwada"
-                }
-              ]
-            },
-            {
-              "text": "His wife Munu Sigdel Khatiwada is also a member of Nepal Communist Party and member of Provincial Assembly of Province No. 3.",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "Munu Sigdel Khatiwada"
-                },
-                {
-                  "type": "internal",
-                  "page": "Nepal Communist Party"
-                },
-                {
-                  "type": "internal",
-                  "page": "Provincial Assembly of Province No. 3"
+                  "page": "Makwanpur 2 (constituency)"
                 }
               ]
             }
@@ -82,7 +55,14 @@
         {
           "sentences": [
             {
-              "text": "In 2018, Khatiwada accused the Nepalese government of not doing enough to control the skyrocketing price on sugar."
+              "text": "Khatiwad is the current Minister for Health and Population of Nepal.",
+              "links": [
+                {
+                  "text": "Minister for Health and Population",
+                  "type": "internal",
+                  "page": "Ministry of Health and Population (Nepal)"
+                }
+              ]
             }
           ]
         }
@@ -106,8 +86,20 @@
       ],
       "infoboxes": [
         {
+          "honorific_prefix": {
+            "text": "Honourable",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Honourable"
+              }
+            ]
+          },
           "name": {
             "text": "Birodh Khatiwada"
+          },
+          "native_name": {
+            "text": "विरोध खतिवडा"
           },
           "office": {
             "text": "Minister of Health and Population",
@@ -140,12 +132,63 @@
               }
             ]
           },
-          "constituency2": {
-            "text": "Makwanpur District-2",
+          "office1": {
+            "text": "Member of House of Representatives",
+            "links": [
+              {
+                "text": "House of Representatives",
+                "type": "internal",
+                "page": "House of Representatives (Nepal)"
+              }
+            ]
+          },
+          "termstart2": {
+            "text": "1991",
+            "number": 1991
+          },
+          "termend2": {
+            "text": "1999",
+            "number": 1999
+          },
+          "monarch2": {
+            "text": "Birendra of Nepal",
             "links": [
               {
                 "type": "internal",
-                "page": "Makwanpur District"
+                "page": "Birendra of Nepal"
+              }
+            ]
+          },
+          "primeminister1": {
+            "text": "Sher Bahadur Deuba",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Sher Bahadur Deuba"
+              }
+            ]
+          },
+          "termstart1": {
+            "text": "2017",
+            "number": 2017
+          },
+          "constituency1": {
+            "text": "Makwanpur 2",
+            "links": [
+              {
+                "text": "Makwanpur 2",
+                "type": "internal",
+                "page": "Makwanpur 2 (constituency)"
+              }
+            ]
+          },
+          "constituency2": {
+            "text": "Makwanpur 2",
+            "links": [
+              {
+                "text": "Makwanpur 2",
+                "type": "internal",
+                "page": "Makwanpur 2 (constituency)"
               }
             ]
           },
@@ -165,8 +208,9 @@
             "text": "CPN (Unified Socialist)",
             "links": [
               {
+                "text": "CPN (Unified Socialist)",
                 "type": "internal",
-                "page": "CPN (Unified Socialist)"
+                "page": "Communist Party of Nepal (Unified Socialist)"
               }
             ]
           },

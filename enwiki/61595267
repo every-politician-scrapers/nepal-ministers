@@ -16,7 +16,39 @@
         {
           "sentences": [
             {
-              "text": "Krishna Kumar Shrestha (Kisaan ) (born December 22, 1967) is a Nepali communist politician and a member of the House of Representatives of the federal parliament of Nepal.",
+              "text": "Krishna Kumar Shrestha (कृष्ण कुमार श्रेष्ठ) known popularly by his nom de gure Kisaan is a Nepali politician belonging to CPN (Unified Socialist).",
+              "links": [
+                {
+                  "text": "CPN (Unified Socialist)",
+                  "type": "internal",
+                  "page": "Communist Party of Nepal (Unified Socialist)"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Krishna Kumar Shrestha"
+                ],
+                "italic": [
+                  "Kisaan"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "He is the current Minister for Labour, Employment and Social Security of Nepal.",
+              "links": [
+                {
+                  "text": "Minister for Labour, Employment and Social Security",
+                  "type": "internal",
+                  "page": "Ministry of Labour, Employment and Social Security (Nepal)"
+                }
+              ]
+            },
+            {
+              "text": "He is also a member of the House of Representatives of the federal parliament of Nepal.",
               "links": [
                 {
                   "text": "House of Representatives",
@@ -28,13 +60,7 @@
                   "type": "internal",
                   "page": "federal parliament of Nepal"
                 }
-              ],
-              "formatting": {
-                "bold": [
-                  "Krishna Kumar Shrestha",
-                  "Kisaan"
-                ]
-              }
+              ]
             }
           ]
         }
@@ -49,6 +75,12 @@
         {
           "name": {
             "text": "Krishna Kumar Shrestha"
+          },
+          "native_name": {
+            "text": "कृष्ण कुमार श्रेष्ठ"
+          },
+          "nickname": {
+            "text": "Kishan Shrestha"
           },
           "office1": {
             "text": "Member of House of Representatives",
@@ -104,9 +136,6 @@
           "term_start": {
             "text": "4 June 2021"
           },
-          "term_end": {
-            "text": "22 June 2021"
-          },
           "president": {
             "text": "Bidya Devi Bhandari",
             "links": [
@@ -134,24 +163,28 @@
               }
             ]
           },
-          "successor": {
-            "text": "Krishna Kumar Shrestha",
+          "birth_place": {
+            "text": "Tanahun, Nepal",
             "links": [
               {
+                "text": "Tanahun",
                 "type": "internal",
-                "page": "Krishna Kumar Shrestha"
+                "page": "Tanahun District"
+              },
+              {
+                "text": "Nepal",
+                "type": "internal",
+                "page": "Kingdom of Nepal"
               }
             ]
-          },
-          "birth_place": {
-            "text": "Tanahun"
           },
           "party": {
             "text": "CPN (Unified Socialist)",
             "links": [
               {
+                "text": "CPN (Unified Socialist)",
                 "type": "internal",
-                "page": "CPN (Unified Socialist)"
+                "page": "Communist Party of Nepal (Unified Socialist)"
               }
             ]
           },

@@ -18,7 +18,22 @@
         {
           "sentences": [
             {
-              "text": "Prem Bahadur Ale Magar (born 28 April 1970) is a Nepali politician who has served as the Minister of Culture, Tourism and Civil Aviation since October 2021 in the ruling Nepali Congress government.",
+              "text": "Prem Bahadur Ale Magar (born 28 April 1970) is a Nepali politician belonging to CPN (Unified Socialist).",
+              "links": [
+                {
+                  "text": "CPN (Unified Socialist)",
+                  "type": "internal",
+                  "page": "Communist Party of Nepal (Unified Socialist)"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Prem Bahadur Ale Magar"
+                ]
+              }
+            },
+            {
+              "text": "He is serving as the Minister of Culture, Tourism and Civil Aviation since October 2021 in the current Nepali Congress led government.",
               "links": [
                 {
                   "text": "Minister of Culture, Tourism and Civil Aviation",
@@ -29,74 +44,26 @@
                   "type": "internal",
                   "page": "Nepali Congress"
                 }
-              ],
-              "formatting": {
-                "bold": [
-                  "Prem Bahadur Ale Magar"
-                ]
-              }
-            },
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
             {
-              "text": "He was previously serving in the capacity of Forests and Environment Minister of Government of Nepal from 25th December of 2020 to 4th June of 2021 He belongs to CPN (Unified Socialist).",
+              "text": "Magar has previously served as the Minister for Forests and Environment of Nepal.",
               "links": [
                 {
-                  "text": "Forests and Environment Minister",
+                  "text": "Minister for Forests and Environment",
                   "type": "internal",
                   "page": "Ministry of Forests and Environment (Nepal)"
                 },
                 {
+                  "text": "Nepal",
                   "type": "internal",
                   "page": "Government of Nepal"
-                },
-                {
-                  "type": "internal",
-                  "page": "CPN (Unified Socialist)"
                 }
               ]
-            }
-          ]
-        },
-        {
-          "sentences": [
-            {
-              "text": "He started his career as a local cadre first being elected as a ward member in Doti."
-            },
-            {
-              "text": "After losing by a thin-margin in the 2013 Constituent Assembly, he was elected, in the elections held in 2017, as a member of the House of Representatives from Doti 1 (constituency).",
-              "links": [
-                {
-                  "text": "2013 Constituent Assembly",
-                  "type": "internal",
-                  "page": "2008 Nepalese Constituent Assembly election"
-                },
-                {
-                  "type": "internal",
-                  "page": "Doti 1 (constituency)"
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "sentences": [
-            {
-              "text": "In 2022, Ale gained widespread popularity after exposing the corruption behind land appropriation in the Narayanhiti Palace by Yogesh Bhattarai.",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "Narayanhiti Palace"
-                },
-                {
-                  "type": "internal",
-                  "page": "Yogesh Bhattarai"
-                }
-              ]
-            },
-            {
-              "text": "He further accused Bhattarai of taking part in illegal gun smuggling after the end of the Civil War in 2008."
-            },
-            {
-              "text": "He was praised by Prime Minister Sher Bahadur Deuba for his bold actions and he has vowed stern action against those accused in the fraud."
             }
           ]
         }
@@ -121,7 +88,10 @@
             ]
           },
           "name": {
-            "text": "Prem Bahadur Ale Magar प्रेम बहादुर आलेमगर"
+            "text": "Prem Bahadur Ale Magar"
+          },
+          "native_name": {
+            "text": "प्रेम बहादुर आले मगर"
           },
           "office": {
             "text": "Minister of Culture, Tourism and Civil Aviation",
@@ -188,7 +158,17 @@
               }
             ]
           },
-          "constituency_mp2": {
+          "office2": {
+            "text": "Member of House of Representatives",
+            "links": [
+              {
+                "text": "House of Representatives",
+                "type": "internal",
+                "page": "House of Representatives (Nepal)"
+              }
+            ]
+          },
+          "constituency2": {
             "text": "Doti 1 (constituency)",
             "links": [
               {
@@ -215,8 +195,9 @@
             "text": "CPN (Unified Socialist)",
             "links": [
               {
+                "text": "CPN (Unified Socialist)",
                 "type": "internal",
-                "page": "CPN (Unified Socialist)"
+                "page": "Communist Party of Nepal (Unified Socialist)"
               }
             ]
           },
