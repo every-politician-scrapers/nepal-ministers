@@ -31,11 +31,12 @@
         {
           "sentences": [
             {
-              "text": "Sher Bahadur Deuba (शेरबहादुर देउवा, ; born 13 June 1946) is a Nepali politician serving as the Prime Minister of Nepal since 13 July 2021.",
+              "text": "Sher Bahadur Deuba (शेरबहादुर देउवा, ; born 13 June 1946) is a Nepali politician serving as the prime minister of Nepal since 13 July 2021.",
               "links": [
                 {
+                  "text": "prime minister of Nepal",
                   "type": "internal",
-                  "page": "Prime Minister of Nepal"
+                  "page": "prime minister of Nepal"
                 }
               ],
               "formatting": {
