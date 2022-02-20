@@ -15,10 +15,10 @@
         {
           "sentences": [
             {
-              "text": "Bhawani Prasad Khapung (भवानीप्रसाद खापुङ) is a Nepalese Politician and Minister of state for Health and Population.",
+              "text": "Bhawani Prasad  (भवानीप्रसाद) is a Nepalese Politician and Minister of state for Health and Population.",
               "formatting": {
                 "bold": [
-                  "Bhawani Prasad Khapung"
+                  "Bhawani Prasad "
                 ]
               }
             },
@@ -59,7 +59,7 @@
       "infoboxes": [
         {
           "name": {
-            "text": "Bhawani Prasad Khapung"
+            "text": "Bhawani Prasad"
           },
           "honorific_prefix": {
             "text": "Honourable",
@@ -71,7 +71,7 @@
             ]
           },
           "native_name": {
-            "text": "भवानी प्रसाद खापुङ"
+            "text": "भवानी प्रसाद"
           },
           "office": {
             "text": "Minister of State of Health and Population",
