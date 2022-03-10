@@ -1,211 +1,24 @@
 {
-  "title": "Nanda Kishor Pun",
-  "pageID": 19302544,
-  "categories": [
-    "Living people",
-    "1966 births",
-    "People from Rolpa District",
-    "Vice presidents of Nepal",
-    "Communist Party of Nepal (Maoist Centre) politicians",
-    "Nepalese military personnel",
-    "People of the Nepalese Civil War"
-  ],
-  "sections": [
-    {
-      "title": "",
-      "depth": 0,
-      "paragraphs": [
-        {
-          "sentences": [
-            {
-              "text": "Nanda Bahadur Pun (नन्दबहादुर पुन; born 23 October 1966), is a Nepalese politician and also known as Nanda Kishor Pun, is the second and the current vice president of Nepal, in office since 2015.",
-              "links": [
-                {
-                  "text": "vice president of Nepal",
-                  "type": "internal",
-                  "page": "vice president of Nepal"
-                }
-              ],
-              "formatting": {
-                "bold": [
-                  "Nanda Bahadur Pun",
-                  "Nanda Kishor Pun"
-                ]
-              }
-            },
-            {
-              "text": "He served as the chief commander of the People's Liberation Army in Nepal.",
-              "links": [
-                {
-                  "text": "People's Liberation Army",
-                  "type": "internal",
-                  "page": "People's Liberation Army (Nepal)"
-                }
-              ]
-            },
-            {
-              "text": "He was also a member of the Central Committee of the Communist Party of Nepal (Maoist Centre).",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "Central Committee"
-                },
-                {
-                  "type": "internal",
-                  "page": "Communist Party of Nepal (Maoist Centre)"
-                }
-              ]
-            }
-          ]
-        }
-      ],
-      "templates": [
-        {
-          "description": "Nepalese politician",
-          "template": "short description"
-        },
-        {
-          "date": "June 2021",
-          "template": "use dmy dates"
-        },
-        {
-          "list": [
-            "Ramsur Pun",
-            "Mansara Pun"
-          ],
-          "template": "ublist"
-        },
-        {
-          "spouse": "Hastamali Pun",
-          "from": "1983",
-          "template": "marriage"
-        },
-        {
-          "year": "1966",
-          "month": "10",
-          "day": "23",
-          "df": "yes",
-          "template": "birth date and age"
-        }
-      ],
-      "infoboxes": [
-        {
-          "honorific-prefix": {
-            "text": "His Excellency The Right Honourable",
-            "links": [
-              {
-                "type": "internal",
-                "page": "His Excellency"
-              },
-              {
-                "type": "internal",
-                "page": "The Right Honourable"
-              }
-            ]
-          },
-          "name": {
-            "text": "Nanda Bahadur Pun"
-          },
-          "native_name": {
-            "text": "नन्दबहादुर पुन"
-          },
-          "native_name_lang": {
-            "text": "ne"
-          },
-          "image": {
-            "text": "Nanda Kishore Pun.png"
-          },
-          "office": {
-            "text": "Vice President of Nepal"
-          },
-          "order": {
-            "text": "2nd"
-          },
-          "predecessor": {
-            "text": "Parmanand Jha",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Parmanand Jha"
-              }
-            ]
-          },
-          "president": {
-            "text": "Bidhya Devi Bhandari",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Bidhya Devi Bhandari"
-              }
-            ]
-          },
-          "term_start": {
-            "text": "31 October 2015"
-          },
-          "office2": {
-            "text": "Chief Commander of the People's Liberation Army",
-            "links": [
-              {
-                "text": "People's Liberation Army",
-                "type": "internal",
-                "page": "People's Liberation Army, Nepal"
-              }
-            ]
-          },
-          "predecessor2": {
-            "text": "Pushpa Kamal Dahal",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Pushpa Kamal Dahal"
-              }
-            ]
-          },
-          "successor2": {
-            "text": "Position abolished"
-          },
-          "term_start2": {
-            "text": "12 September 2008"
-          },
-          "term_end2": {
-            "text": "12 April 2012"
-          },
-          "party": {
-            "text": "Communist Party of Nepal (Maoist Centre) (until 2015)"
-          },
-          "parents": {
-            "text": "Ramsur Pun\n\nMansara Pun"
-          },
-          "spouse": {
-            "text": "Hastamali Pun (m. 1983)"
-          },
-          "children": {
-            "text": "2",
-            "number": 2
-          },
-          "birth_date": {
-            "text": "October 23, 1966"
-          },
-          "birth_place": {
-            "text": "Rangsi, Rolpa, Nepal",
-            "links": [
-              {
-                "text": "Rangsi",
-                "type": "internal",
-                "page": "Rangsi, Rolpa"
-              },
-              {
-                "text": "Rolpa",
-                "type": "internal",
-                "page": "Rolpa District"
-              }
-            ]
-          },
-          "nationality": {
-            "text": "Nepalese"
-          }
-        }
-      ]
-    }
-  ]
+  "honorific-prefix": "His Excellency The Right Honourable",
+  "name": "Nanda Bahadur Pun",
+  "native_name": "नन्दबहादुर पुन",
+  "native_name_lang": "ne",
+  "image": "Nanda Kishore Pun.png",
+  "office": "Vice President of Nepal",
+  "order": "2nd",
+  "predecessor": "Parmanand Jha",
+  "president": "Bidhya Devi Bhandari",
+  "term_start": "31 October 2015",
+  "office2": "Chief Commander of the People's Liberation Army",
+  "predecessor2": "Pushpa Kamal Dahal",
+  "successor2": "Position abolished",
+  "term_start2": "12 September 2008",
+  "term_end2": "12 April 2012",
+  "party": "Communist Party of Nepal (Maoist Centre) (until 2015)",
+  "parents": "Ramsur Pun\n\nMansara Pun",
+  "spouse": "Hastamali Pun (m. 1983)",
+  "children": "2",
+  "birth_date": "October 23, 1966",
+  "birth_place": "Rangsi, Rolpa, Nepal",
+  "nationality": "Nepalese"
 }

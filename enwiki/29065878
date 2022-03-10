@@ -1,381 +1,43 @@
 {
-  "title": "Agni Prasad Sapkota",
-  "pageID": 29065878,
-  "categories": [
-    "Nepal Communist Party (NCP) politicians",
-    "Members of the Nepalese Constituent Assembly",
-    "Living people",
-    "Government ministers of Nepal",
-    "Nepalese atheists",
-    "1960 births",
-    "People from Sindhupalchowk District",
-    "Tribhuvan University alumni",
-    "Communist Party of Nepal (Maoist Centre) politicians",
-    "Communist Party of Nepal (Maoist) (2012) politicians",
-    "Nepal MPs 2017–",
-    "Speakers of the House of Representatives (Nepal)",
-    "People of the Nepalese Civil War"
-  ],
-  "sections": [
-    {
-      "title": "",
-      "depth": 0,
-      "paragraphs": [
-        {
-          "sentences": [
-            {
-              "text": "Agni Prasad Sapkota (अग्नि प्रसाद सापकोटा; born 7 March 1958) is a Nepalese politician and current speaker of the House of Representatives.",
-              "links": [
-                {
-                  "text": "House of Representatives",
-                  "type": "internal",
-                  "page": "House of Representatives (Nepal)"
-                }
-              ],
-              "formatting": {
-                "bold": [
-                  "Agni Prasad Sapkota"
-                ]
-              }
-            },
-            {
-              "text": "He was elected speaker unopposed on 26 January 2020, after the previous speaker, Krishna Bahadur Mahara, resigned over allegations of attempted sexual assault.",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "Krishna Bahadur Mahara"
-                }
-              ]
-            },
-            {
-              "text": "Sapkota previously served as a minister in the cabinets of prime ministers Jhala Nath Khanal and KP Sharma Oli.",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "Jhala Nath Khanal"
-                },
-                {
-                  "type": "internal",
-                  "page": "KP Sharma Oli"
-                }
-              ]
-            }
-          ]
-        }
-      ],
-      "templates": [
-        {
-          "description": "Nepalese politician",
-          "template": "short description"
-        },
-        {
-          "year": "1958",
-          "month": "03",
-          "day": "07",
-          "df": "y",
-          "template": "birth date and age"
-        }
-      ],
-      "infoboxes": [
-        {
-          "honorific_prefix": {
-            "text": "The Right Honourable",
-            "links": [
-              {
-                "type": "internal",
-                "page": "The Right Honourable"
-              }
-            ]
-          },
-          "name": {
-            "text": "Agni Prasad Sapkota"
-          },
-          "image": {
-            "text": "Agni_Spkta.jpg"
-          },
-          "office3": {
-            "text": "Minister for Information and Communications"
-          },
-          "predecessor3": {
-            "text": "Krishna Bahadur Mahara",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Krishna Bahadur Mahara"
-              }
-            ]
-          },
-          "term_start3": {
-            "text": "May 2011"
-          },
-          "term_end3": {
-            "text": "July 2011"
-          },
-          "president3": {
-            "text": "Ram Baran Yadav",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Ram Baran Yadav"
-              }
-            ]
-          },
-          "primeminister3": {
-            "text": "Jhala Nath Khanal",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Jhala Nath Khanal"
-              }
-            ]
-          },
-          "office": {
-            "text": "Speaker of the House of Representatives",
-            "links": [
-              {
-                "text": "Speaker",
-                "type": "internal",
-                "page": "Speaker (politics)"
-              },
-              {
-                "text": "House of Representatives",
-                "type": "internal",
-                "page": "House of Representatives of Nepal"
-              }
-            ]
-          },
-          "president": {
-            "text": "Bidhya Devi Bhandari",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Bidhya Devi Bhandari"
-              }
-            ]
-          },
-          "primeminister": {
-            "text": "Khadga Prasad Oli",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Khadga Prasad Oli"
-              }
-            ]
-          },
-          "predecessor": {
-            "text": "Krishna Bahadur Mahara",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Krishna Bahadur Mahara"
-              }
-            ]
-          },
-          "term_start": {
-            "text": "27 January 2020"
-          },
-          "office2": {
-            "text": "Minister for Forests and Soil Conservation",
-            "links": [
-              {
-                "text": "Minister for Forests and Soil Conservation",
-                "type": "internal",
-                "page": "Ministry of Forests and Soil Conservation (Nepal)"
-              }
-            ]
-          },
-          "president2": {
-            "text": "Bidhya Devi Bhandari",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Bidhya Devi Bhandari"
-              }
-            ]
-          },
-          "predecessor2": {
-            "text": "Mahesh Acharya",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Mahesh Acharya"
-              }
-            ]
-          },
-          "primeminister2": {
-            "text": "Khadga Prasad Oli",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Khadga Prasad Oli"
-              }
-            ]
-          },
-          "term_start2": {
-            "text": "October 2015"
-          },
-          "term_end2": {
-            "text": "July 2016"
-          },
-          "successor2": {
-            "text": "Shankar Bhandari"
-          },
-          "birth_date": {
-            "text": "March 7, 1958"
-          },
-          "birth_place": {
-            "text": "Kubhinde, Sindhupalchok District, Nepal",
-            "links": [
-              {
-                "text": "Kubhinde",
-                "type": "internal",
-                "page": "Kubhinde, Bagmati"
-              },
-              {
-                "type": "internal",
-                "page": "Sindhupalchok District"
-              },
-              {
-                "type": "internal",
-                "page": "Nepal"
-              }
-            ]
-          },
-          "party": {
-            "text": "CPN (Maoist Centre) (1994-2018, 2021-present)",
-            "links": [
-              {
-                "type": "internal",
-                "page": "CPN (Maoist Centre)"
-              }
-            ]
-          },
-          "spouse": {
-            "text": "Tara Devi Sapkota"
-          },
-          "alma_mater": {
-            "text": "Tribhuvan University",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Tribhuvan University"
-              }
-            ]
-          },
-          "office4": {
-            "text": "Member of the House of Representatives",
-            "links": [
-              {
-                "text": "House of Representatives",
-                "type": "internal",
-                "page": "House of Representatives (Nepal)"
-              }
-            ]
-          },
-          "term_start4": {
-            "text": "4 March 2018"
-          },
-          "constituency4": {
-            "text": "Sindhupalchok 1",
-            "links": [
-              {
-                "text": "Sindhupalchok 1",
-                "type": "internal",
-                "page": "Sindhupalchok 1 (constituency)"
-              }
-            ]
-          },
-          "predecessor4": {
-            "text": "Mohan Bahadur Basnet (as member of the Legislature Parliament)",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Mohan Bahadur Basnet"
-              }
-            ]
-          },
-          "office5": {
-            "text": "Member of the Constituent Assembly / Legislature Parliament",
-            "links": [
-              {
-                "text": "Constituent Assembly",
-                "type": "internal",
-                "page": "1st Nepalese Constituent Assembly"
-              },
-              {
-                "text": "Legislature Parliament",
-                "type": "internal",
-                "page": "2nd Nepalese Constituent Assembly"
-              }
-            ]
-          },
-          "term_start5": {
-            "text": "28 May 2008"
-          },
-          "term_end5": {
-            "text": "14 October 2017"
-          },
-          "predecessor5": {
-            "text": "Subas Karmacharya (as member of the House of Representatives)"
-          },
-          "successor5": {
-            "text": "Sher Bahadur Tamang (as member of the House of Representatives)",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Sher Bahadur Tamang"
-              }
-            ]
-          },
-          "constituency5": {
-            "text": "Sindhupalchok 2",
-            "links": [
-              {
-                "text": "Sindhupalchok 2",
-                "type": "internal",
-                "page": "Sindhupalchok 2 (constituency)"
-              }
-            ]
-          },
-          "successor3": {
-            "text": "Jaya Prakash Gupta"
-          },
-          "native_name": {
-            "text": "अग्नि प्रसाद सापकोटा"
-          },
-          "native_name_lang": {
-            "text": "ne"
-          },
-          "deputy": {
-            "text": "vacant",
-            "formatting": {
-              "italic": [
-                "vacant"
-              ]
-            }
-          },
-          "otherparty": {
-            "text": "Nepal Communist Party (NCP) (2018–2021) CPN (Unity Centre) (1990-1994) CPN (Fourth Convention) (before 1990)",
-            "links": [
-              {
-                "text": "Nepal Communist Party (NCP)",
-                "type": "internal",
-                "page": "Nepal Communist Party"
-              },
-              {
-                "text": "CPN (Unity Centre)",
-                "type": "internal",
-                "page": "Communist Party of Nepal (Unity Centre)"
-              },
-              {
-                "text": "CPN (Fourth Convention)",
-                "type": "internal",
-                "page": "Communist Party of Nepal (Fourth Convention)"
-              }
-            ]
-          }
-        }
-      ]
-    }
-  ]
+  "honorific_prefix": "The Right Honourable",
+  "name": "Agni Prasad Sapkota",
+  "image": "Agni_Spkta.jpg",
+  "office3": "Minister for Information and Communications",
+  "predecessor3": "Krishna Bahadur Mahara",
+  "term_start3": "May 2011",
+  "term_end3": "July 2011",
+  "president3": "Ram Baran Yadav",
+  "primeminister3": "Jhala Nath Khanal",
+  "office": "Speaker of the House of Representatives",
+  "president": "Bidhya Devi Bhandari",
+  "primeminister": "Khadga Prasad Oli",
+  "predecessor": "Krishna Bahadur Mahara",
+  "term_start": "27 January 2020",
+  "office2": "Minister for Forests and Soil Conservation",
+  "president2": "Bidhya Devi Bhandari",
+  "predecessor2": "Mahesh Acharya",
+  "primeminister2": "Khadga Prasad Oli",
+  "term_start2": "October 2015",
+  "term_end2": "July 2016",
+  "successor2": "Shankar Bhandari",
+  "birth_date": "March 7, 1958",
+  "birth_place": "Kubhinde, Sindhupalchok District, Nepal",
+  "party": "CPN (Maoist Centre) (1994-2018, 2021-present)",
+  "spouse": "Tara Devi Sapkota",
+  "alma_mater": "Tribhuvan University",
+  "office4": "Member of the House of Representatives",
+  "term_start4": "4 March 2018",
+  "constituency4": "Sindhupalchok 1",
+  "predecessor4": "Mohan Bahadur Basnet (as member of the Legislature Parliament)",
+  "office5": "Member of the Constituent Assembly / Legislature Parliament",
+  "term_start5": "28 May 2008",
+  "term_end5": "14 October 2017",
+  "predecessor5": "Subas Karmacharya (as member of the House of Representatives)",
+  "successor5": "Sher Bahadur Tamang (as member of the House of Representatives)",
+  "constituency5": "Sindhupalchok 2",
+  "successor3": "Jaya Prakash Gupta",
+  "native_name": "अग्नि प्रसाद सापकोटा",
+  "native_name_lang": "ne",
+  "deputy": "vacant",
+  "otherparty": "Nepal Communist Party (NCP) (2018–2021) CPN (Unity Centre) (1990-1994) CPN (Fourth Convention) (before 1990)"
 }
