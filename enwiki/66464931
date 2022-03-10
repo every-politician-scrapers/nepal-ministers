@@ -1,215 +1,23 @@
 {
-  "title": "Prem Ale",
-  "pageID": 66464931,
-  "categories": [
-    "Government ministers of Nepal",
-    "Living people",
-    "Members of the Nepalese Constituent Assembly",
-    "Communist Party of Nepal (Unified Socialist) politicians",
-    "Nepal Communist Party (NCP) politicians",
-    "People from Doti District",
-    "1971 births"
-  ],
-  "sections": [
-    {
-      "title": "",
-      "depth": 0,
-      "paragraphs": [
-        {
-          "sentences": [
-            {
-              "text": "Prem Bahadur Ale Magar (born 28 April 1970) is a Nepali politician belonging to CPN (Unified Socialist).",
-              "links": [
-                {
-                  "text": "CPN (Unified Socialist)",
-                  "type": "internal",
-                  "page": "Communist Party of Nepal (Unified Socialist)"
-                }
-              ],
-              "formatting": {
-                "bold": [
-                  "Prem Bahadur Ale Magar"
-                ]
-              }
-            },
-            {
-              "text": "He is serving as the Minister of Culture, Tourism and Civil Aviation since October 2021 in the current Nepali Congress led government.",
-              "links": [
-                {
-                  "text": "Minister of Culture, Tourism and Civil Aviation",
-                  "type": "internal",
-                  "page": "Ministry of Culture, Tourism and Civil Aviation (Nepal)"
-                },
-                {
-                  "type": "internal",
-                  "page": "Nepali Congress"
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "sentences": [
-            {
-              "text": "Magar has previously served as the Minister for Forests and Environment of Nepal.",
-              "links": [
-                {
-                  "text": "Minister for Forests and Environment",
-                  "type": "internal",
-                  "page": "Ministry of Forests and Environment (Nepal)"
-                },
-                {
-                  "text": "Nepal",
-                  "type": "internal",
-                  "page": "Government of Nepal"
-                }
-              ]
-            }
-          ]
-        }
-      ],
-      "templates": [
-        {
-          "year": "1970",
-          "month": "04",
-          "day": "28",
-          "template": "birth date and age"
-        }
-      ],
-      "infoboxes": [
-        {
-          "honorific-prefix": {
-            "text": "Honourable",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Honourable"
-              }
-            ]
-          },
-          "name": {
-            "text": "Prem Bahadur Ale Magar"
-          },
-          "native_name": {
-            "text": "प्रेम बहादुर आले मगर"
-          },
-          "office": {
-            "text": "Minister of Culture, Tourism and Civil Aviation",
-            "links": [
-              {
-                "text": "Minister of Culture, Tourism and Civil Aviation",
-                "type": "internal",
-                "page": "Ministry of Culture, Tourism and Civil Aviation (Nepal)"
-              }
-            ]
-          },
-          "primeminister": {
-            "text": "Sher Bahadur Deuba",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Sher Bahadur Deuba"
-              }
-            ]
-          },
-          "president": {
-            "text": "Bidya Devi Bhandari",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Bidya Devi Bhandari"
-              }
-            ]
-          },
-          "term_start": {
-            "text": "8 October 2021"
-          },
-          "office1": {
-            "text": "Minister of Forests and Environment",
-            "links": [
-              {
-                "text": "Minister of Forests and Environment",
-                "type": "internal",
-                "page": "Ministry of Forests and Environment (Nepal)"
-              }
-            ]
-          },
-          "term_start1": {
-            "text": "25th December of 2020"
-          },
-          "term_end1": {
-            "text": "4th June of 2021"
-          },
-          "president1": {
-            "text": "Bidhya Devi Bhandari",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Bidhya Devi Bhandari"
-              }
-            ]
-          },
-          "primeminister1": {
-            "text": "KP Sharma Oli",
-            "links": [
-              {
-                "type": "internal",
-                "page": "KP Sharma Oli"
-              }
-            ]
-          },
-          "office2": {
-            "text": "Member of House of Representatives",
-            "links": [
-              {
-                "text": "House of Representatives",
-                "type": "internal",
-                "page": "House of Representatives (Nepal)"
-              }
-            ]
-          },
-          "constituency2": {
-            "text": "Doti 1 (constituency)",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Doti 1 (constituency)"
-              }
-            ]
-          },
-          "majority2": {
-            "text": "1,632",
-            "number": 1632
-          },
-          "predecessor2": {
-            "text": "Bir Bahadur Balayar"
-          },
-          "term_start2": {
-            "text": "2017",
-            "number": 2017
-          },
-          "birth_date": {
-            "text": "April 28, 1970"
-          },
-          "party": {
-            "text": "CPN (Unified Socialist)",
-            "links": [
-              {
-                "text": "CPN (Unified Socialist)",
-                "type": "internal",
-                "page": "Communist Party of Nepal (Unified Socialist)"
-              }
-            ]
-          },
-          "image": {
-            "text": "Prem Ale.jpg"
-          },
-          "image_size": {
-            "text": "270",
-            "number": 270
-          }
-        }
-      ]
-    }
-  ]
+  "honorific-prefix": "Honourable",
+  "name": "Prem Bahadur Ale Magar",
+  "native_name": "प्रेम बहादुर आले मगर",
+  "office": "Minister of Culture, Tourism and Civil Aviation",
+  "primeminister": "Sher Bahadur Deuba",
+  "president": "Bidya Devi Bhandari",
+  "term_start": "8 October 2021",
+  "office1": "Minister of Forests and Environment",
+  "term_start1": "25th December of 2020",
+  "term_end1": "4th June of 2021",
+  "president1": "Bidhya Devi Bhandari",
+  "primeminister1": "KP Sharma Oli",
+  "office2": "Member of House of Representatives",
+  "constituency2": "Doti 1 (constituency)",
+  "majority2": "1,632",
+  "predecessor2": "Bir Bahadur Balayar",
+  "term_start2": "2017",
+  "birth_date": "April 28, 1970",
+  "party": "CPN (Unified Socialist)",
+  "image": "Prem Ale.jpg",
+  "image_size": "270"
 }
