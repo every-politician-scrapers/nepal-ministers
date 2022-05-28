@@ -1,8 +1,3 @@
-@@,itemlabel,item,startdate,enddate
-->,Krishna Prasad Bhattarai,Q380145,1959-05-01->1959-05,1960-12-01->1960-12
-->,Daman Nath Dhungana,Q65920999,1991-05-01->1991-05,1994-08-01->1994-08
-->,Ram Chandra Poudel,Q3183124,1994-11-01->1994-11,1999-05-01->1999-05
-->,Taranath Ranabhat,Q7685404,1999-05-01->1999-05,2002-05-01->2002-05
-->,Subash Nemwang->Subas Chandra Nembang,Q7630835,2006-04-01->2006-04,2008-04-01->2008-04
-->,Krishna Bahadur Mahara,Q1779490,2018-03-10->2018-03,2019-10-01->NULL
-->,Agni Sapkota->Agni Prasad Sapkota,Q4693207,2020-01-27->2018-03,
+@@,item,itemlabel,startdate,enddate
+->,Q1779490,Krishna Bahadur Mahara,2018-03-10->2018-03,2019-10-01
+->,Q4693207,Agni Prasad Sapkota,2020-01-27->2018-03,
