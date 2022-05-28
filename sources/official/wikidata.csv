@@ -1,6 +1,7 @@
 wdid,name,wdLabel,gender,dob,dobPrecision,source,sourceDate,pid,position,start,psid
 Q106993234,Mr. Ramsahay Prasad Yadav,Ram Sahaya Yadav,male,,,https://www.opmcm.gov.np/en/cabinet/,2021-11-26,Q109747517,Minister of Forests and Environment,2021-10-08,Q106993234-FF43DFF3-016C-4CF4-848D-43455ED7476C
 Q107026781,Mr. Rajendra Prasad Shrestha,Rajendra Prasad Shrestha,male,,,https://www.opmcm.gov.np/en/cabinet/,2021-11-26,Q109747487,Minister of Federal Affairs and General Administration,2021-10-08,Q107026781-4D8D1F7C-A7DD-444A-BD90-1E70F86B8D51
+Q112154523,Mr. Govinda Prasad Sharma (Koirala),Govinda Bandi,male,,,https://www.opmcm.gov.np/en/cabinet/,2022-05-28,Q109747502,"Minister of Law, Justice and Parliamentary Affairs",2022-04-07,Q112154523-CE2B3689-5DB2-41FA-8E64-1D4038B1F3B0
 Q13181537,Dr. Narayan Khadka,Narayan Khadka,male,1949-03-20,11,https://www.opmcm.gov.np/en/cabinet/,2021-11-26,Q109747497,Minister of Foreign Affairs,2021-09-22,Q13181537-7D924E7E-555A-4A47-AD6D-B6DD6423EC0C
 Q13183947,Mr. Bal Krishna Khand,Bal Krishna Khand,male,,,https://www.opmcm.gov.np/en/cabinet/,2021-11-26,Q109747480,Minister of Home Affairs,2021-07-13,Q13183947-192F1FF4-10B6-4F0D-9FD4-608CC9657B63
 Q19670829,Mr. Umesh Shrestha,Umesh Shrestha,male,1968-01-01,9,https://www.opmcm.gov.np/en/cabinet/,2021-11-26,Q109747523,State Minister: Office of the Prime Minister and council of Ministers,2021-10-08,Q19670829-EA55B17D-5306-4AF8-A0D5-B241C12AF702
@@ -10,10 +11,9 @@ Q3161833,Mr. Janardan Sharma,Janardhan Sharma,male,1963-04-25,11,https://www.opm
 Q3361809,Ms. Pampha Bhusal,Pampha Bhusal,female,1953-01-01,7,https://www.opmcm.gov.np/en/cabinet/,2021-11-26,Q109747483,"Minister of Energy, Water Resources and Irrigation",2021-07-13,Q3361809-CF6A8E76-3A62-4FC3-B4C1-54ED7A417691
 Q3425614,Ms. Renu Kumari Yadav,Renu Kumari Yadav,female,1963-06-19,11,https://www.opmcm.gov.np/en/cabinet/,2021-11-26,Q109747499,Minister of Physical Infrastructure and Transport,2021-10-08,Q3425614-82977A36-00C4-43AB-B706-632560FA67BB
 Q45086562,Mr. Prem Bahadur Ale,Prem Bahadur Ale,male,1971-04-28,11,https://www.opmcm.gov.np/en/cabinet/,2021-11-26,Q109747500,"Minister of Culture, Tourism and Civil Aviation",2021-10-08,Q45086562-8F4918DE-3E5E-41A8-8CAD-6B3C37DF4931
-Q470903,Sher Bahadur Deuba,Sher Bahadur Deuba,male,1946-06-13,11,,,Q109747493,Minister of Defence,2021-12-21,Q470903-5B1E3527-F52B-4757-951B-42C7BFECF91B
+Q470903,Mr. Sher Bahadur Deuba,Sher Bahadur Deuba,male,1946-06-13,11,https://www.opmcm.gov.np/en/cabinet/,2022-05-28,Q109747493,Minister of Defence,2021-12-21,Q470903-5B1E3527-F52B-4757-951B-42C7BFECF91B
 Q470903,Mr. Sher Bahadur Deuba,Sher Bahadur Deuba,male,1946-06-13,11,https://www.opmcm.gov.np/en/cabinet/,2021-11-26,Q30100626,Prime Minister,2021-07-13,Q470903-906d4832-4e2d-e592-1ab5-e62d429386de
-Q470903,Mr. Sher Bahadur Deuba,Sher Bahadur Deuba,male,1946-06-13,11,https://www.opmcm.gov.np/en/cabinet/,2021-11-26,Q109747476,"Minister of Industry, Commerce and Supplies",2021-10-10,Q470903-F4C9B5E6-CAE8-4FB4-84BB-29A3D83B6537
-Q5276755,Mr. Dilendra Prasad Badu,Dilendra Prasad Badu,male,1954-01-09,11,https://www.opmcm.gov.np/en/cabinet/,2021-11-26,Q109747502,"Minister of Law, Justice and Parliamentary Affairs",2021-10-08,Q5276755-5BD16568-E18B-44AA-A280-6D0B25AC194F
+Q5276755,Mr. Dilendra Prasad Badu,Dilendra Prasad Badu,male,1954-01-09,11,https://www.opmcm.gov.np/en/cabinet/,2022-05-28,Q109747476,"Minister of Industry, Commerce and Supplies",2022-04-07,Q5276755-51fe5c48-41b2-b297-8ca4-6958fec60918
 Q59726451,Mr. Birodh Khatiwada,Birodh Khatiwada,male,,,https://www.opmcm.gov.np/en/cabinet/,2021-11-26,Q109747489,Minister of Health and Population,2021-10-08,Q59726451-76C4EC55-5074-4C82-B935-D45D12EFC9F9
 Q59726513,Mr. Devendra Paudel,Devendra Paudel,male,,,https://www.opmcm.gov.np/en/cabinet/,2021-11-26,Q109747504,"Minister of Education, Science and Technology",2021-10-08,Q59726513-73F0AF94-A391-4221-A05A-E584D3B109BC
 Q60544995,Mr. Bhawani Prasad Khapung,Bhawani Prasad Khapung,male,,,https://www.opmcm.gov.np/en/cabinet/,2021-11-26,Q109747524,State Minister: Health and Population,2021-10-08,Q60544995-A2CAB23B-F673-4562-9C1F-411EC9106DF3
