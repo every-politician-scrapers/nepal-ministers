@@ -2,11 +2,10 @@
   "name": "Krishna Kumar Shrestha",
   "native_name": "कृष्ण कुमार श्रेष्ठ",
   "nickname": "Kishan Shrestha",
-  "office1": "Member of House of Representatives",
-  "term_start1": "2017",
-  "president1": "Bidhya Devi Bhandari",
-  "primeminister1": "Sher Bahadur Deuba",
+  "office1": "Member of Parliament, Pratinidhi Sabha",
+  "term_start1": "4 March 2018",
   "constituency1": "Tanahun 1",
+  "predecessor1": "Shankar Bhandari",
   "office": "Minister of Labour, Employment and Social Security",
   "term_start": "4 June 2021",
   "president": "Bidya Devi Bhandari",
@@ -14,5 +13,11 @@
   "predecessor": "Gauri Shankar Chaudhary",
   "birth_place": "Tanahun, Nepal",
   "party": "CPN (Unified Socialist)",
-  "nationality": "Nepali"
+  "otherparty": "CPN (UML)",
+  "nationality": "Nepali",
+  "birth_date": "December 22, 1967",
+  "father": "Kewal Bahadur Shrestha",
+  "mother": "Les Kumari Shrestha",
+  "spouse": "Anju Goseli",
+  "children": "2"
 }
