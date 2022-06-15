@@ -1,10 +1,13 @@
 {
   "name": "Devendra Poudel",
   "native_name": "देवेन्द्र पौडेल",
-  "constituency_mp": "Baglung 2",
+  "office": "Member of Parliament, Pratinidhi Sabha",
   "term_start": "4 March 2018",
+  "constituency": "Baglung 2",
   "predecessor": "Prakash Sharma Paudel",
   "party": "CPN (Maoist Centre)",
   "nationality": "Nepali",
-  "otherparty": "Nepal Communist Party(2018-2021)"
+  "otherparty": "CPN (Masal) CPN (Unity Centre) Naya Shakti Nepal Communist Party (2018-2021)",
+  "birth_date": "January 11, 1965",
+  "birth_place": "Baglung District"
 }
