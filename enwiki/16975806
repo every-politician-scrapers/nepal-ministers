@@ -1,7 +1,7 @@
 {
   "honorific_prefix": "Honourable",
   "name": "Bal Krishna Khand",
-  "native_name": "बालकृष्ण खाँड",
+  "native_name": "बालकृष्ण खाँण",
   "office": "Home Minister of Nepal",
   "term_start": "12 July 2021",
   "president": "Bidhya Devi Bhandari",
@@ -19,6 +19,22 @@
   "term_end2": "6 February 2011",
   "president2": "Ram Baran Yadav",
   "primeminister2": "Madhav Kumar Nepal",
+  "office3": "Member of Parliament, Pratinidhi Sabha for Nepali Congress party list",
+  "term_start3": "4 March 2018",
+  "office4": "Member of Constituent Assembly",
+  "term_start4": "28 May 2008",
+  "term_end4": "14 October 2017",
+  "constituency4": "Rupandehi",
+  "predecessor4": "Surya Prasad Pradhan",
+  "successor4": "Ghanashyam Bhusal",
+  "office5": "Member of Parliment, Pratinidhi Sabha",
+  "term_start5": "May 1991",
+  "term_end5": "August 1994",
+  "constituency5": "Rupandehi",
+  "predecessor5": "Constituency established",
+  "successor5": "Modanath Prasrit",
   "party": "Nepali Congress",
-  "nationality": "Nepali"
+  "otherparty": "Nepali Congress (Democratic)",
+  "nationality": "Nepali",
+  "birth_date": "June 1960"
 }

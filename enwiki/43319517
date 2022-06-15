@@ -1,6 +1,7 @@
 {
   "honorific-prefix": "Honourable",
-  "name": "Narayan Khadka नारायण खड्का",
+  "name": "Narayan Khadka",
+  "native_name": "नारायण खड्का",
   "office1": "Minister of Foreign Affairs",
   "term_start1": "22 September 2021",
   "president1": "Bidhya Devi Bhandari",
@@ -12,12 +13,17 @@
   "vicepresident2": "Paramananda Jha",
   "president2": "Ram Baran Yadav",
   "primeminister2": "Sushil Koirala",
-  "office3": "Member of House of Representatives (Nepal)",
+  "office3": "Member of Parliament, Pratinidhi Sabha",
   "constituency3": "Udayapur 1",
-  "term_start3": "2017",
+  "term_start3": "4 March 2018",
+  "office4": "Member of Constituent Assembly",
+  "term_start4": "28 May 2008",
+  "term_end4": "14 October 2017",
+  "predecessor": "Suresh Kumar Rai",
   "birth_date": "March 20, 1949",
   "birth_place": "Dingla, Bhojpur District",
   "nationality": "Nepali",
   "party": "Nepali Congress",
-  "parents": "Chitra Bahadur Khadka\n\nDharma Kumari Khadka"
+  "parents": "Chitra Bahadur Khadka\n\nDharma Kumari Khadka",
+  "education": "University of Pune (PhD)"
 }
