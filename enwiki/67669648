@@ -1,9 +1,20 @@
 {
   "name": "Rajendra Prasad Shrestha",
+  "native_name": "राजेन्द्र प्रसाद श्रेष्ठ",
   "office": "Minister of Federal Affairs and General Administration",
   "term_start": "8 October 2021",
   "president": "Bidya Devi Bhandari",
   "primeminister": "KP Sharma Oli",
-  "party": "People's Socialist Party, Nepal",
-  "nationality": "Nepali"
+  "office1": "Member of Parliament, Pratinidhi Sabha for Federal Socialist Forum party list",
+  "term_start1": "4 March 2018",
+  "office2": "Member of Parliament, Pratinidhi Sabha",
+  "term_start2": "October 1994",
+  "term_end2": "May 1999",
+  "constituency2": "Kathmandu 5",
+  "predecessor2": "Krishna Gopal Shrestha",
+  "successor2": "Mangal Siddhi Manandhar",
+  "party": "People's Socialist Party",
+  "otherparty": "CPN (Fourth Convention) CPN (ML) CPN (UML) Federal Socialist Party Federal Socialist Forum",
+  "nationality": "Nepali",
+  "birth_date": "March 30, 1960"
 }
