@@ -1,8 +1,9 @@
 {
   "honorific-prefix": "Honourable",
   "name": "Janardan Sharma जनार्दन शर्मा",
-  "office": "Minister of Finance",
+  "office": "(Former)Minister of Finance",
   "term_start": "13 July 2021",
+  "term_end": "6 July 2022",
   "president": "Bidhya Devi Bhandari",
   "primeminister": "Sher Bahadur Deuba",
   "predecessor": "Bishnu Prasad Paudel",
@@ -35,5 +36,4 @@
   "birth_place": "Rukum, Nepal",
   "party": "CPN (Maoist Centre) (1995-2018, 2021 - present)",
   "otherparty": "Nepal Communist Party (2018-2021)",
-  "birth_date": "1962 (age 60)",
 }
