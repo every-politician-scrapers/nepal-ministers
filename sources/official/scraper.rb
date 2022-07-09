@@ -12,7 +12,7 @@ class MemberList
 
     def position
       return "State Minister: #{portfolio}" if section.include? 'State Minister'
-      return ['Prime Minister', "Minister of #{portfolio}"] if section.include? 'Prime Minister'
+      return ['Prime Minister'] + portfolio.split(', ').map { |posn| "Minister of #{posn}" } if section.include? 'Prime Minister'
       return "Minister of #{portfolio}" if section == 'Hon’ble Minister'
 
       raise "Unknown section (#{section}) for #{portfolio}"
