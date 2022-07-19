@@ -1,0 +1,198 @@
+{
+  "title": "Shashi Shrestha",
+  "pageID": 10980361,
+  "categories": [
+    "Government ministers of Nepal",
+    "Living people",
+    "Communist Party of Nepal (Unity Centre–Masal) politicians",
+    "Women government ministers of Nepal",
+    "Year of birth missing (living people)",
+    "Nepal MPs 2017–",
+    "Nepal Communist Party (NCP) politicians",
+    "Communist Party of Nepal (Maoist Centre) politicians"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Shashi Shrestha (Nepali: शशी श्रेष्ठ) is a Nepalese politician, Central Committee member of Janamorcha Nepal (Amik Sherchan faction).",
+              "links": [
+                {
+                  "text": "Nepali",
+                  "type": "internal",
+                  "page": "Nepali language"
+                },
+                {
+                  "text": "Nepalese",
+                  "type": "internal",
+                  "page": "Nepal"
+                },
+                {
+                  "text": "politician",
+                  "type": "internal",
+                  "page": "politician"
+                },
+                {
+                  "type": "internal",
+                  "page": "Janamorcha Nepal"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Shashi Shrestha"
+                ]
+              }
+            },
+            {
+              "text": "She was appointed as Minister of State for Health and Population on April 29, 2007."
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Shrestha is the head of the Janamorcha-supported All Nepal Women's Association.",
+              "links": [
+                {
+                  "text": "All Nepal Women's Association",
+                  "type": "internal",
+                  "page": "All Nepal Women's Association (Revolutionary)"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Nepali politician",
+          "template": "short description"
+        },
+        {
+          "date": "August 2019",
+          "template": "use dmy dates"
+        },
+        {
+          "year": "1962",
+          "month": "3",
+          "day": "1",
+          "template": "birth date and age"
+        }
+      ],
+      "infoboxes": [
+        {
+          "name": {
+            "text": "Shashi Shrestha"
+          },
+          "native_name": {
+            "text": "शशी श्रेष्ठ"
+          },
+          "office": {
+            "text": "Member of Parliament, Pratinidhi Sabha for CPN (Maoist Centre) party list",
+            "links": [
+              {
+                "text": "Member of Parliament, Pratinidhi Sabha",
+                "type": "internal",
+                "page": "Pratinidhi Sabha"
+              },
+              {
+                "type": "internal",
+                "page": "CPN (Maoist Centre)"
+              },
+              {
+                "text": "party list",
+                "type": "internal",
+                "page": "party list"
+              }
+            ]
+          },
+          "term_start1": {
+            "text": "4 March 2018"
+          },
+          "party": {
+            "text": "CPN (Maoist Centre)",
+            "links": [
+              {
+                "type": "internal",
+                "page": "CPN (Maoist Centre)"
+              }
+            ]
+          },
+          "otherparty": {
+            "text": "CPN (Fourth Convention) Samyukta Janamorcha CPN (Unity Centre–Masal)",
+            "links": [
+              {
+                "text": "CPN (Fourth Convention)",
+                "type": "internal",
+                "page": "Communist Party of Nepal (Fourth Convention)"
+              },
+              {
+                "text": "Samyukta Janamorcha",
+                "type": "internal",
+                "page": "Samyukta Janamorcha Nepal"
+              },
+              {
+                "text": "CPN (Unity Centre–Masal)",
+                "type": "internal",
+                "page": "Communist Party of Nepal (Unity Centre–Masal)"
+              }
+            ]
+          },
+          "nationality": {
+            "text": "Nepali",
+            "links": [
+              {
+                "text": "Nepali",
+                "type": "internal",
+                "page": "Nepal"
+              }
+            ]
+          },
+          "birth_date": {
+            "text": "March 1, 1962"
+          }
+        }
+      ],
+      "references": [
+        {
+          "url": "https://hr.parliament.gov.np/uploads/attachments/z3qljvte6vwen2cy.pdf",
+          "title": "संघीय संसद सदस्य, २०७४ परिचयात्मक पुस्तिका",
+          "publisher": "Federal Parliament Secretariat",
+          "year": "2021",
+          "location": "Nepal",
+          "pages": "270",
+          "language": "ne",
+          "trans-title": "Federal Parliament Members 2017 Introduction Booklet",
+          "template": "citation",
+          "type": "book"
+        },
+        {
+          "url": "http://www.nepalnews.com.np/archive/2007/apr/apr29/news09.php",
+          "title": "Pokhrel appointed Health Minister",
+          "date": "2007-04-29",
+          "website": "Nepalnews.com",
+          "archive-url": "https://web.archive.org/web/20070518150521/http://www.nepalnews.com.np/archive/2007/apr/apr29/news09.php",
+          "archive-date": "2007-05-18",
+          "access-date": "2017-04-16",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "http://www.nepalitimes.com/issue/150/FromtheNepaliPress/2818",
+          "title": "Party woman",
+          "date": "2003-06-20",
+          "website": "Nepali Times",
+          "archive-url": "https://web.archive.org/web/20061116111156/http://www.nepalitimes.com/issue/150/FromtheNepaliPress/2818",
+          "archive-date": "2006-11-16",
+          "url-status": "dead",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    }
+  ]
+}

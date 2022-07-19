@@ -1,0 +1,720 @@
+{
+  "title": "Uma Kanta Chaudhari",
+  "pageID": 8986491,
+  "categories": [
+    "Living people",
+    "Nepali Congress politicians from Madhesh Province",
+    "Government ministers of Nepal",
+    "Year of birth missing (living people)",
+    "Place of birth missing (living people)",
+    "Nepal MPs 2017–",
+    "Nepal MPs 1999–2002",
+    "Members of the 1st Nepalese Constituent Assembly"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Uma Kanta Chaudhary (उमाकान्त चौधरी) is a Nepalese politician and the current minister for Water Supply of Nepal.",
+              "links": [
+                {
+                  "text": "Nepalese",
+                  "type": "internal",
+                  "page": "Nepal"
+                },
+                {
+                  "text": "Water Supply",
+                  "type": "internal",
+                  "page": "Ministry of Water Supply (Nepal)"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Uma Kanta Chaudhary"
+                ]
+              }
+            },
+            {
+              "text": "He was elected to the Pratinidhi Sabha in the 2017 election on behalf of the Nepali Congress.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Pratinidhi Sabha"
+                },
+                {
+                  "text": "2017 election",
+                  "type": "internal",
+                  "page": "2017 Nepalese legislative election"
+                },
+                {
+                  "type": "internal",
+                  "page": "Nepali Congress"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "He was appointed in 2004 as minister of state for agriculture and cooperation."
+            },
+            {
+              "text": "In 2009 he became Health Minister."
+            },
+            {
+              "text": "He hails from Bara and elected from Bara 1.",
+              "links": [
+                {
+                  "text": "Bara 1",
+                  "type": "internal",
+                  "page": "Bara 1 (constituency)"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Nepalese politician",
+          "bot": "PearBOT 5",
+          "template": "short description"
+        },
+        {
+          "year": "1966",
+          "month": "08",
+          "day": "31",
+          "df": "y",
+          "template": "birth date and age"
+        }
+      ],
+      "infoboxes": [
+        {
+          "honorific_prefix": {
+            "text": "Honourable",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Honourable"
+              }
+            ]
+          },
+          "name": {
+            "text": "Uma Kanta Chaudhary"
+          },
+          "native_name": {
+            "text": "उमा कान्त चौधरी"
+          },
+          "office": {
+            "text": "Deputy General Secretary of Nepali Congress",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Nepali Congress"
+              }
+            ]
+          },
+          "term_start": {
+            "text": "17 December 2021"
+          },
+          "predecessor": {
+            "text": "Prakash Sharan Mahat",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Prakash Sharan Mahat"
+              }
+            ]
+          },
+          "office1": {
+            "text": "Minister for Water Supply",
+            "links": [
+              {
+                "text": "Water Supply",
+                "type": "internal",
+                "page": "Ministry of Water Supply (Nepal)"
+              }
+            ]
+          },
+          "term_start1": {
+            "text": "8 October 2021"
+          },
+          "president1": {
+            "text": "Bidhya Devi Bhandari",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Bidhya Devi Bhandari"
+              }
+            ]
+          },
+          "primeminister1": {
+            "text": "Sher Bahadur Deuba",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Sher Bahadur Deuba"
+              }
+            ]
+          },
+          "office2": {
+            "text": "Member of Parliament, Pratinidhi Sabha for Bara 1"
+          },
+          "term_start2": {
+            "text": "4 March 2018"
+          },
+          "predecessor2": {
+            "text": "Ram Ayodhya Prasad Yadav"
+          },
+          "term_start3": {
+            "text": "May 1999"
+          },
+          "term_end3": {
+            "text": "May 2002"
+          },
+          "predecessor3": {
+            "text": "Mukunda Neupane",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Mukunda Neupane"
+              }
+            ]
+          },
+          "successor3": {
+            "text": "Saroj Kumar Yadav"
+          },
+          "office4": {
+            "text": "Member of Constituent Assembly",
+            "links": [
+              {
+                "text": "Member of Constituent Assembly",
+                "type": "internal",
+                "page": "1st Nepalese Constituent Assembly"
+              }
+            ]
+          },
+          "term_start4": {
+            "text": "28 May 2008"
+          },
+          "term_end4": {
+            "text": "28 May 2012"
+          },
+          "constituency4": {
+            "text": "Bara 5"
+          },
+          "predecessor4": {
+            "text": "Constituency created",
+            "formatting": {
+              "italic": [
+                "Constituency created"
+              ]
+            }
+          },
+          "successor4": {
+            "text": "Balbir Prasad Chaudhary",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Balbir Prasad Chaudhary"
+              }
+            ]
+          },
+          "party": {
+            "text": "Nepali Congress",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Nepali Congress"
+              }
+            ]
+          },
+          "nationality": {
+            "text": "Nepali",
+            "links": [
+              {
+                "text": "Nepali",
+                "type": "internal",
+                "page": "Nepal"
+              }
+            ]
+          },
+          "birth_place": {
+            "text": "Bara, Nepal",
+            "links": [
+              {
+                "text": "Bara",
+                "type": "internal",
+                "page": "Bara District"
+              },
+              {
+                "type": "internal",
+                "page": "Nepal"
+              }
+            ]
+          },
+          "birth_date": {
+            "text": "August 31, 1966"
+          },
+          "father": {
+            "text": "Chandrika Prasad Chaudhary"
+          },
+          "mother": {
+            "text": "Madeshiya Devi Chaudhary"
+          },
+          "spouse": {
+            "text": "Gayatri Devi Tharuni"
+          },
+          "children": {
+            "text": "4",
+            "number": 4
+          }
+        }
+      ],
+      "references": [
+        {
+          "url": "https://hr.parliament.gov.np/uploads/attachments/z3qljvte6vwen2cy.pdf",
+          "title": "संघीय संसद सदस्य, २०७४ परिचयात्मक पुस्तिका",
+          "publisher": "Federal Parliament Secretariat",
+          "year": "2021",
+          "location": "Nepal",
+          "pages": "270",
+          "language": "ne",
+          "trans-title": "Federal Parliament Members 2017 Introduction Booklet",
+          "template": "citation",
+          "type": "book"
+        },
+        {
+          "title": "Council of Ministers {{!}} Office of the Prime Minister and Council of Ministers",
+          "url": "https://www.opmcm.gov.np/en/cabinet/",
+          "access-date": "2021-12-17",
+          "language": "en-US",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        },
+        {
+          "title": "निर्वाचन मतगणनाको परिणाम",
+          "url": "https://result.election.gov.np/ElectionResultCentral.aspx",
+          "access-date": "2021-12-17",
+          "website": "result.election.gov.np",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "last": "Setopati",
+          "first": "Setopati",
+          "title": "NC candidate Chaudhary wins from Bara-1",
+          "url": "https://en.setopati.com/political/112720/",
+          "access-date": "2021-12-17",
+          "website": "Setopati",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "Electoral history",
+      "depth": 0
+    },
+    {
+      "title": "2017 legislative elections",
+      "depth": 1,
+      "tables": [
+        [
+          {
+            "col1": {
+              "text": "Party"
+            },
+            "col2": {
+              "text": ""
+            },
+            "col3": {
+              "text": "Candidate"
+            },
+            "col4": {
+              "text": "Votes"
+            }
+          },
+          {
+            "col1": {
+              "text": ""
+            },
+            "col2": {
+              "text": "Nepali Congress",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Nepali Congress"
+                }
+              ]
+            },
+            "col3": {
+              "text": "Uma Kanta Chaudhary"
+            },
+            "col4": {
+              "text": "24,450",
+              "number": 24450
+            }
+          },
+          {
+            "col1": {
+              "text": ""
+            },
+            "col2": {
+              "text": "CPN (Unified Marxist–Leninist)",
+              "links": [
+                {
+                  "text": "CPN (Unified Marxist–Leninist)",
+                  "type": "internal",
+                  "page": "Communist Party of Nepal (Unified Marxist–Leninist)"
+                }
+              ]
+            },
+            "col3": {
+              "text": "Achyut Prasad Mainali"
+            },
+            "col4": {
+              "text": "22,030",
+              "number": 22030
+            }
+          },
+          {
+            "col1": {
+              "text": ""
+            },
+            "col2": {
+              "text": "Rastriya Janata Party Nepal",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Rastriya Janata Party Nepal"
+                }
+              ]
+            },
+            "col3": {
+              "text": "Ram Kishore Prasad Yadav"
+            },
+            "col4": {
+              "text": "20,144",
+              "number": 20144
+            }
+          },
+          {
+            "col1": {
+              "text": ""
+            },
+            "col2": {
+              "text": "Others"
+            },
+            "col3": {
+              "text": ""
+            },
+            "col4": {
+              "text": "598",
+              "number": 598
+            }
+          },
+          {
+            "col1": {
+              "text": "Invalid votes"
+            },
+            "col2": {
+              "text": ""
+            },
+            "col3": {
+              "text": ""
+            },
+            "col4": {
+              "text": "3,004",
+              "number": 3004
+            }
+          },
+          {
+            "col1": {
+              "text": "Result"
+            },
+            "col2": {
+              "text": ""
+            },
+            "col3": {
+              "text": "Congress hold"
+            }
+          },
+          {
+            "col1": {
+              "text": "Source: Election Commission",
+              "links": [
+                {
+                  "text": "Election Commission",
+                  "type": "external",
+                  "site": "https://result.election.gov.np/ElectionResultCentral.aspx"
+                }
+              ]
+            },
+            "col2": {
+              "text": ""
+            },
+            "col3": {
+              "text": ""
+            },
+            "col4": {
+              "text": ""
+            }
+          }
+        ]
+      ],
+      "templates": [
+        {
+          "list": [
+            "Nepali Congress"
+          ],
+          "template": "party color"
+        },
+        {
+          "list": [
+            "Communist Party of Nepal (Maoist Centre)"
+          ],
+          "template": "party color"
+        }
+      ]
+    },
+    {
+      "title": "1999 legislative elections",
+      "depth": 1,
+      "tables": [
+        [
+          {
+            "col1": {
+              "text": "Party"
+            },
+            "col2": {
+              "text": ""
+            },
+            "col3": {
+              "text": "Candidate"
+            },
+            "col4": {
+              "text": "Votes"
+            }
+          },
+          {
+            "col1": {
+              "text": ""
+            },
+            "col2": {
+              "text": "Nepali Congress",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Nepali Congress"
+                }
+              ]
+            },
+            "col3": {
+              "text": "Uma Kanta Chaudhary"
+            },
+            "col4": {
+              "text": "23,601",
+              "number": 23601
+            }
+          },
+          {
+            "col1": {
+              "text": ""
+            },
+            "col2": {
+              "text": "CPN (Unified Marxist–Leninist)",
+              "links": [
+                {
+                  "text": "CPN (Unified Marxist–Leninist)",
+                  "type": "internal",
+                  "page": "CPN (UML)"
+                }
+              ]
+            },
+            "col3": {
+              "text": "Mukunda Neupane"
+            },
+            "col4": {
+              "text": "20,646",
+              "number": 20646
+            }
+          },
+          {
+            "col1": {
+              "text": ""
+            },
+            "col2": {
+              "text": "Nepal Sadbhawana Party",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Nepal Sadbhawana Party"
+                }
+              ]
+            },
+            "col3": {
+              "text": "Parmananda Prasad Yadav"
+            },
+            "col4": {
+              "text": "4,890",
+              "number": 4890
+            }
+          },
+          {
+            "col1": {
+              "text": ""
+            },
+            "col2": {
+              "text": "CPN (Marxist–Leninist)",
+              "links": [
+                {
+                  "text": "CPN (Marxist–Leninist)",
+                  "type": "internal",
+                  "page": "Communist Party of Nepal (Marxist–Leninist) (1998)"
+                }
+              ]
+            },
+            "col3": {
+              "text": "Chabi Lal Uprety"
+            },
+            "col4": {
+              "text": "2,363",
+              "number": 2363
+            }
+          },
+          {
+            "col1": {
+              "text": ""
+            },
+            "col2": {
+              "text": "Rastriya Prajatantra Party",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Rastriya Prajatantra Party"
+                }
+              ]
+            },
+            "col3": {
+              "text": "Raj Narayan Sah Teli"
+            },
+            "col4": {
+              "text": "2,136",
+              "number": 2136
+            }
+          },
+          {
+            "col1": {
+              "text": ""
+            },
+            "col2": {
+              "text": "Others"
+            },
+            "col3": {
+              "text": ""
+            },
+            "col4": {
+              "text": "553",
+              "number": 553
+            }
+          },
+          {
+            "col1": {
+              "text": "Invalid Votes"
+            },
+            "col2": {
+              "text": ""
+            },
+            "col3": {
+              "text": ""
+            },
+            "col4": {
+              "text": "1,340",
+              "number": 1340
+            }
+          },
+          {
+            "col1": {
+              "text": "Result"
+            },
+            "col2": {
+              "text": ""
+            },
+            "col3": {
+              "text": "Congress gain"
+            }
+          },
+          {
+            "col1": {
+              "text": "Source: Election Commission"
+            },
+            "col2": {
+              "text": ""
+            },
+            "col3": {
+              "text": ""
+            },
+            "col4": {
+              "text": ""
+            }
+          }
+        ]
+      ],
+      "templates": [
+        {
+          "list": [
+            "Nepali Congress"
+          ],
+          "template": "party color"
+        },
+        {
+          "list": [
+            "Communist Party of Nepal (Unified Marxist-Leninist)"
+          ],
+          "template": "party color"
+        }
+      ],
+      "references": [
+        {
+          "title": "Election Results'99",
+          "url": "https://nepalresearch.org/politics/background/elections_old/ec/alldistconst.htm",
+          "access-date": "2020-11-15",
+          "website": "nepalresearch.org",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "date": "2008-01-24",
+          "title": "Finalised Constituencies With Top Two Candidates",
+          "url": "http://www.election-commission.org.np/toptwo.php",
+          "archive-url": "https://web.archive.org/web/20080124110554/http://www.election-commission.org.np/toptwo.php",
+          "archive-date": "2008-01-24",
+          "access-date": "2020-11-15",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "province2np-politician-stub"
+        }
+      ]
+    }
+  ]
+}
